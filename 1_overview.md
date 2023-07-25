@@ -7,6 +7,6 @@ The record unit central to the arrangement and description process is ordinarily
 
 The processing archivist chooses the level of arrangement, description, and preservation given a collection by considering a number of factors. These include how well access is improved by a particular method of processing, the relative importance of the materials to the department's holdings, and the cost of labor and materials in consultation with the SC/A Librarian. 
 
-Appropriate arrangement, description, and preservation are more important than uniform arrangement, description, and preservation. Historical value, anticipated use, physical condition, donor agreements, and expense of treatment options (in both time and money) should all be considered when choosing the level to which a collection should be processed.
+*Appropriate* arrangement, description, and preservation are more important than *uniform* arrangement, description, and preservation. Historical value, anticipated use, physical condition, donor agreements, and expense of treatment options (in both time and money) should all be considered when choosing the level to which a collection should be processed.
 
 [Insert updated workflow diagram here]

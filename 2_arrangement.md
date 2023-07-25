@@ -1,19 +1,6 @@
 # Arrangement
 Arrangement of collections includes all physical and intellectual actions made in a collection from its time of accessioning.
 
-The process includes many of the following documents and steps:
-
-1.	Accession Records
-2.	Processing Plans
-3.	Physical Processing
-a.	Non-Textual Records in Collections
-b.	Weeding and Discards
-c.	Separations
-d.	Preservation
-e.	Storage of Collections
-i.	Collections in Process
-ii.	Locations for Finished Collections
-
 ## 1. Accession Records:
 Upon arrival in the Special Collections and Archives unit, all collections are accessioned into our existing holdings. As part of this process new accessions are carefully inspected for insects and mold, and are re-boxed, if necessary. An "Unprocessed Donation" label is attached to the side of each box, which includes the name of the collection, name of the donor, date of the accession, the name of the staff person accessioning the donation, and a brief description of the box's contents.
 
@@ -27,14 +14,13 @@ For collections lacking original order, archivists should avoid imposing complex
 Plans and their revisions are kept on the H drive, and remain there after processing is completed. Archivists may place additional relevant processing notes and documents on the H drive and in the physical case file as appropriate. Processing plans are working documents, and can vary in length and formality. Major processing plan revisions need to be reviewed by the Special Collections and Archives Librarian or Head of Special Collections and Archives.      
 
 Processing plans serve to:
+- Track decisions made, especially for future archivists
+- Provide a starting point for discussing processing levels and techniques among staff
+- Ensure the initiation of communication between staff in the Special Collections and Archives unit
+- Aid in the setting of goals and objectives by the Head of Special Collections and Archives and  unit staff
+- Notify staff of any special supplies or materials that will be needed to complete processing 
 
-·	Track decisions made, especially for future archivists
-·	Provide a starting point for discussing processing levels and techniques among staff
-·	Ensure the initiation of communication between staff in the Special Collections and Archives unit
-·	Aid in the setting of goals and objectives by the Head of Special Collections and Archives and  unit staff
-·	Notify staff of any special supplies or materials that will be needed to complete processing 
-
-Processing plans are internal documents only. There is a template available on the H drive   at H:\SpecialCollectionsArchives\Policies and Procedures\Processing. 
+Processing plans are internal documents only. There is a template available on the H drive at H:\SpecialCollectionsArchives\Policies and Procedures\Processing. 
 
 ## 3. Physical Processing:   
 Special Collections and Archives follow the archival principles of provenance and original order. Compelling reasons must exist for imposing an organization other than original order except when no order is apparent.

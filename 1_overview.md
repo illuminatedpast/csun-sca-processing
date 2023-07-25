@@ -12,3 +12,6 @@ The processing archivist chooses the level of arrangement, description, and pres
 [Insert updated workflow diagram here]
 
 ==mention Trello project tracking here?==
+
+(Use?: https://github.com/just-the-docs/just-the-docs)
+

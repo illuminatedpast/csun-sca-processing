@@ -33,14 +33,13 @@ The processing archivist addresses collections in the aggregate, describing non-
 It is important to identify the different types of media within a collection since they may have different treatment and storage requirements. (Retain original order when separating formats.)
 
 The following are some examples of formats that may necessitate separate housing:
-
-·	Architectural drawings: originals and copies of drawings, plans, elevations, and renderings
-·	Ephemera
-·	Graphics, including original artwork and drawings, watercolors, and cartoons
-·	Photographic media, including albums, cased images, lantern slides, negatives, prints, slides, and stereographs
-·	Posters or other oversized materials
-·	Microfilm
-·	Digital files  
+- Architectural drawings: originals and copies of drawings, plans, elevations, and renderings
+- Ephemera
+- Graphics, including original artwork and drawings, watercolors, and cartoons
+- Photographic media, including albums, cased images, lantern slides, negatives, prints, slides, and stereographs
+- Posters or other oversized materials
+- Microfilm
+- Digital files  
 
 Albums should generally be disassembled during processing, but must be looked at on a case by case basis. The processing archivist should consult with the supervising archivist or librarian and staff as necessary prior to disassembling albums. If appropriate, albums should be paginated and photocopied or digitally copied prior to disassembly.  
 

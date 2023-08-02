@@ -34,10 +34,9 @@ c. Preservation:
 Special Collections and Archives performs basic preservation techniques in house, such as photocopying acidic originals or removing rusted fasteners. More complicated preservation needs may require vended services. All preservation decisions should be made with an eye to the collection as a whole, and in consultation between the processing archivist, SC/A Librarian, and other staff as necessary. Decisions regarding the migration of audiovisual materials should be made in consultation with Digital Services.
 
 d. Storage of Collections:
-i. Collections in Process
-Unprocessed collections are listed in the Master Shelf List. Generally, collections in process are temporarily stored near the processor's work area or in the designated storage area for collections in process. When collections are permanently removed from the stacks or are temporarily moved to a different location for more than a week, the Master Shelf List must be updated.
-
-	ii. Locations for Finished Collections
-When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in Room 4 or Stacks.      Consult digital processing documentation for up-to-date information on where to store processed digital files.
+-Collections in Process
+--Unprocessed collections are listed in the Master Shelf List. Generally, collections in process are temporarily stored near the processor's work area or in the designated storage area for collections in process. When collections are permanently removed from the stacks or are temporarily moved to a different location for more than a week, the Master Shelf List must be updated.
+-Locations for Finished Collections
+--When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in Room 4 or Stacks.      Consult digital processing documentation for up-to-date information on where to store processed digital files.
 
 ***

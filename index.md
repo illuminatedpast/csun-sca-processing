@@ -10,10 +10,10 @@ This Processing Guide is a 2023 update to an existing version. See Accessioning 
 ## [Part 2: Arrangement]({{ site.baseurl }}/2_arrangement.html/)
 - 2-1     [Accession Records]({{ site.baseurl }}/2_arrangement/2-1_accessionrecords.html)
 - 2-2     [Processing Plans]({{ site.baseurl }}/2_arrangement/2-2_processingplans.html)
-- 2-3     [Leadership Seminar]({{ site.baseurl }}/2_arrangement/2-3_physicalprocessing.html)
+- 2-3     [Physical Processing]({{ site.baseurl }}/2_arrangement/2-3_physicalprocessing.html)
 
 ## [Part 3: Description]({{ site.baseurl }}/3_description.html/)
-- 3-1     [Accession Records]({{ site.baseurl }}/3_description/3-1_description.html)
+- 3-1     [Description]({{ site.baseurl }}/3_description/3-1_description.html)
 
 ## [Part 4: Physical Processing]({{ site.baseurl }}/4_physicalprocessing.html/)
-- 4-1     [Accession Records]({{ site.baseurl }}/4_physicalprocessing/4-1physicalprocessing.html)
+- 4-1     [Physical Processing]({{ site.baseurl }}/4_physicalprocessing/4-1physicalprocessing.html)

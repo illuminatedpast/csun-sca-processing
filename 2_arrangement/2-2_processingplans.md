@@ -12,4 +12,4 @@ Processing plans serve to:
 - Aid in the setting of goals and objectives by the Head of Special Collections and Archives and  unit staff
 - Notify staff of any special supplies or materials that will be needed to complete processing 
 
-Processing plans are internal documents only. There is a template available on the H drive at H:\SpecialCollectionsArchives\Policies and Procedures\Processing. 
+Processing plans are internal documents only. There is a template available on the H drive.

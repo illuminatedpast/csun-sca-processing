@@ -39,4 +39,8 @@ d. Storage of Collections:
 - Locations for Finished Collections
   - When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in Room 4 or Stacks.      Consult digital processing documentation for up-to-date information on where to store processed digital files.
 
+- [ ] check box 1
+- [ ] check box 2
+- [ ] check box 3
+
 ***

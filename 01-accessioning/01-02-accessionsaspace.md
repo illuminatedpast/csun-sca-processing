@@ -26,4 +26,5 @@ Required fields are in bold.
 | **Instances** | Add an instance for each box. <br> They should be **"Mixed Materials"** and make sure to enter the **barcode** and a **location** |
 | **Collection Management** | Under "Processing Status" select "Unprocessed" if this is a new accession, or  "In Processing" if you are currently processing this collection. <br> **Once an accession has be processed reopen the accession record and change the "processing status" field to "Processed"** |
 
+
 Data in an Accession record can be spawned into additional Accession records to reflect a hierarchical or sibling relationship. It can also be spawned into a new Resource record. Edits to a spawned Resource record do not change the Accession record it came from. Only the first Accession record can be spawned to the Resource record; data from subsequent Accession records associated with the same resource will need to be entered manually.

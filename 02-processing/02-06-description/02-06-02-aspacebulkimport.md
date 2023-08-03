@@ -6,13 +6,12 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 
 - Hide all unnecessary columns until it matches exactly what we use in the rapid data entry in ASpace
 -	The Hierarchy has to be in order. So if you enter a file in hierarchy #3 it needs to come after the correct series you want it in (not above it in a different series)
--	For Italics: Instead of italicizing things in the folder titles, wrap the words in code
-Instead of writing this: Alert: Against Communism in California
-Wrap the words with code instead:
+-	For Italics: Instead of italicizing things in the folder titles, wrap the words in code. So for a folder titled, "Alert: Against Communism in California" you would wrap it in the following code to get it to display *Alert: Against Communism in California* in the finding aid:
 
 ```
+
 <title render="italic">Alert: Against Communism in California</title>
-<title render="italic"> goes before the words you want Italicized and </title> goes after the words you want italicized.
+
 ```
 
 -	Highlight the folder title column only in order to perform spell check solely on the title text to avoid receiving spelling errors on the collection acronym, etc.

@@ -34,15 +34,15 @@ Special Collections and Archives performs basic preservation techniques in house
 
 ### Storage of Collections
 - **Collections in Process**
-Unprocessed collections are listed in the ArchivesSpace Accessions module. Generally, collections in process are temporarily stored near the processor's work area or in the designated storage area for collections in process. When collections are permanently removed from the stacks or are temporarily moved to a different location for more than a week, the Accession record in ASpace must be updated to reflect that a collection is "In Processing."
+Unprocessed collections are listed in the ArchivesSpace Accessions module. Generally, collections in process are temporarily stored near the processor's work area or in the designated storage area for collections in process. When collections are permanently removed from the stacks, or are temporarily moved to a different location for more than a week, the location for the container instances attached to the Accession record in ASpace must be updated. 
 - **Finished Collections**
-When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in Room 4 or Stacks. Consult [digital processing documentation](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-05-digitalprocessing.html) for up-to-date information on where to store processed digital files.
+When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in 4 or Stacks. Consult [digital processing documentation](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-05-digitalprocessing.html) for up-to-date information on where to store processed digital files.
 
 ### Administrative
-The Archivist returns to the ArchivesSpace Accession record and:
+When processing is completed the processing archivist returns to the ArchivesSpace Accession record and:
 - Deletes related accession container instances
 - Updates the Accession>Collection Management>Processing Status to read “Processed”
-- Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not you must do it manually.
+- Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.
 
 <details>
   

@@ -6,12 +6,12 @@
 
 | Use | Field | Instructions |
 | ----------- | ----------- | ----------- |
-| Required | Abstract | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html) | 
+| Required | Abstract | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html) | 
 | Optional | Accruals | Include accruals information when we know it. | 
 | Unused | Appraisal | XXX | 
 | Optional | Arrangement | Include a series and subseries outline if the collection has one. | 
 | Unused | Bibliography | XXX | 
-| Optional | Biographical / Historical | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
+| Optional | Biographical / Historical | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
 | Required | Conditions Governing Access | This collection is open for research use. | 
 | Required | Conditions Governing Use | Copyright for unpublished materials authored or otherwise produced by the creator(s) of this collection has [not] been transferred to California State University, Northridge. Copyright status for other materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user. | 
 | Optional | Custodial History | Note changes of ownership or custody for the collection / share provenance information if it is known. | 
@@ -20,7 +20,7 @@
 | Unused | Existence and Locations of Originals | XXX | 
 | Unused | File Plan | XXX | 
 | Optional | General | This field should only be used in instances where needed information cannot be included in any other field, which happens very rarely. Consult with at least two other archivists before using this field.  | 
-| Optional | Immediate Source of Acquisition | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
+| Optional | Immediate Source of Acquisition | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
 | Unused | Index | XXX | 
 | Required | Language of Material	| Choose the appropriate language from the drop-down menu. |
 | Unused | Legal Status | XXX | 
@@ -31,9 +31,9 @@
 | Unused | Physical Facets | XXX | 
 | Unused | Physical Location | XXX | 
 | Required | Preferred Citation | For information about citing items in this collection consult the appropriate style manual, or see the [Citing Archival Materials](http://libguides.csun.edu/citing-archives/index) guide. | 
-| Optional | Processing Information | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
-| Optional | Related Materials | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
-| Required | Scope and Contents | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
+| Optional | Processing Information | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
+| Optional | Related Materials | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
+| Required | Scope and Contents | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
 | Unused | Separated Materials | XXX | 
 
 ### Entering Finding Aid Box and Folder Lists

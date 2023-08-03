@@ -20,7 +20,7 @@ a.	Example: Unprocessed Accession 23-04
 
 #### Files need to be migrated off physical media:
 1.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X:
-a.	Example: Unprocessed Accession 23-04
+a.	Example: Unprocessed Accession 2023-004
 2.	Capture any relevant data from the physical media (see: Procedures for Imaging Audio-Visual Materials document in H:\SpecialCollectionsArchives\Policies and Procedures\Processing)
 3.	Migrate digital files off physical media
 a.	Archivist: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media QUESTION: Have a dedicated, isolated computer in the workroom or 314 that the Archivists can use (with write-blocker, virus software, ability to generate file directories for accession box lists, disconnected from internet/networks)?    

@@ -1,6 +1,6 @@
 ## Physical Processing
 
-### Non-Textual Records in Collections:
+### Non-Textual Records in Collections
 
 The processing archivist addresses collections in the aggregate, describing non-textual records with the textual parts of all collections. Descriptions of these materials will be incorporated into the finding aid. Generally group description, similar to a folder or box level description, will be adequate.
 
@@ -18,7 +18,7 @@ The following are some examples of formats that may necessitate separate housing
 
 Albums should generally be disassembled during processing, but must be looked at on a case by case basis. The processing archivist should consult with the supervising archivist or librarian and staff as necessary prior to disassembling albums. If appropriate, albums should be paginated and photocopied or digitally copied prior to disassembly.  
 
-### Weeding, Discards, and Separations:
+### Weeding, Discards, and Separations
 
 The term "weeding" encompasses everything from reappraisal of entire series to discarding duplicates. To what level of detail weeding will be done depends on the amount of benefit (in additional clarity, space reduction, and preservation effort) to be gained compared to the amount of time required.
 
@@ -30,10 +30,10 @@ Publications are normally separated and cataloged for appropriate locations in t
 
 A Separation Form must be completed for discards and separations and saved to the case file on H. The Separation Form is in the folder at H:\SpecialCollectionsArchives\Forms\Separations. Duplicates do not need to be noted on a separation form, unless there is an extensive number of duplicates.
 
-### Preservation:  
+### Preservation
 Special Collections and Archives performs basic preservation techniques in house, such as photocopying acidic originals or removing rusted fasteners. More complicated preservation needs may require vended services. All preservation decisions should be made with an eye to the collection as a whole, and in consultation between the processing archivist, SC/A Librarian, and other staff as necessary. Decisions regarding the migration of audiovisual materials should be made in consultation with Digital Services.
 
-### Storage of Collections:
+### Storage of Collections
 i. Collections in Process
 Unprocessed collections are listed in the Master Shelf List. Generally, collections in process are temporarily stored near the processor's work area or in the designated storage area for collections in process. When collections are permanently removed from the stacks or are temporarily moved to a different location for more than a week, the Master Shelf List must be updated.
 

@@ -18,7 +18,8 @@ You wrap the words with code instead:
 -	Do Not enter in multiple folder numbers here. That is just for the physical folder. E.g. for physical folders with the titles “Meeting Minutes, 1990-1992 (1 of 4)” through (4 of 4) would only be one line in the s/s: “Meeting Minutes 1990-1992”
 -	Before you import the Excel for real, do a test load by checking the “Only validate” box when doing “Load Spreadsheet.” ASpace will run a background job and create a spreadsheet report that shows you where the errors are (or things go great and there are no errors!). You’ll need to download the spreadsheet to view the report outside of ASpace.
 
-### Troubleshooting Failed Bulk Box List Uploads
+
+### Troubleshooting Failed Box List Uploads
 
 -	We’ve had error messages when importing that were due to “Mixed Materials” missing the letter “s” on the end or for uncapitalized “m”.
 -	If you get errors, make sure there isn't any data accidentally added to the hidden columns you're not using.
@@ -35,5 +36,5 @@ You wrap the words with code instead:
 >      - I’m a folder title (Hierarchy: 3)
 >  - Series II (Hierarchy: 1)
 >    - I’m a folder title (Hierarchy: 2)
-   
-    ***
+
+***

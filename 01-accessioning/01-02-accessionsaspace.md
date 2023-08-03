@@ -1,6 +1,6 @@
 ## Adding Accession Records to ArchivesSpace
 
-Required fields are in bold.
+Required fields are indicated by a bold field title.
 
 | Field       | Instructions |
 | ----------- | ----------- |

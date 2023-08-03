@@ -1,5 +1,7 @@
 ## Entering Finding Aid Data into ArchivesSpace
 
+### Entering Finding Aid Front Matter
+
 [link to doc or include instruction images from Word doc here]
 
 | Use | Field | Instructions |
@@ -33,5 +35,9 @@
 | Optional | Related Materials | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
 | Required | Scope and Contents | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description.html)  | 
 | Unused | Separated Materials | XXX | 
+
+### Entering Finding Aid Box and Folder Lists
+
+### Entering Digital Objects
 
 ***

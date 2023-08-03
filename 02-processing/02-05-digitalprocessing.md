@@ -1,6 +1,6 @@
 ## Digital Processing
 
-The following instructions are not intended for born-digital collections with complex original order or large digital collections requiring more intensive preservation measures. These policies and procedures will be updated when we implement Preservica. This guide is intended primarily for processing small, simple digital collections such as:
+The following instructions are not intended for born-digital collections with complex original order or large digital collections requiring more intensive preservation measures. These policies and procedures will be updated when we implement Preservica. This guide is intended primarily for processing small, simple, digital collections such as:
 - Scan and return projects
   - *Example: [Old China Hands digital-only photo collections](https://oac.cdlib.org/findaid/ark:/13030/c8sn0h46/)*
 - Artificially created collections

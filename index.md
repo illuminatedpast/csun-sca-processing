@@ -4,7 +4,7 @@ This Accessioning and Processing Guide is a 2023 update to an existing version.
 
 ***
 
-## [Part 1: Accesioning Collections]({{ site.baseurl }}/01-accessioning.html/)
+## [Part 1: Accessioning Collections]({{ site.baseurl }}/01-accessioning.html/)
 - 1-1     [Accessioning Archival Collections]({{ site.baseurl }}/01-accessioning/01-01-accessionrecords.html)
 - 1-2     [Adding Accession Records to ArchivesSpace]({{ site.baseurl }}/01-accessioning/01-02-accessionsaspace.html)  
 

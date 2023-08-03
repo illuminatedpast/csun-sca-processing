@@ -4,7 +4,7 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 
 ### Preparing the Bulk Upload Spreadsheet for Box Lists
 
-- Hide all unnecessary columns until it matches exactly what we use in the rapid data entry in ASpace, then let the student get to work.
+- Hide all unnecessary columns until it matches exactly what we use in the rapid data entry in ASpace
 -	The Hierarchy has to be in order. So if you enter a file in hierarchy #3 it needs to come after the correct series you want it in (not above it in a different series)
 -	For Italics: Instead of italicizing things in the folder titles, wrap the words in code
 Instead of writing this: Alert: Against Communism in California

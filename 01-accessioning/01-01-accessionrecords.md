@@ -1,9 +1,9 @@
 ## Accessioning Archival Collections
 Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use Trello to track the progression of a collection through the accessioning process.
 
-After completing appraisal, the archivist who accepts physical custody of the accession is responsible for having the Deed of Gift or Records Transfer Authorization form(s) signed and in hand. We cannot physically accept materials until ownership or custody has been transferred through these documents. Original deeds of gift are sent to Library Development, and photocopies are filed in the collection's case file   . Original Records Transfer Authorization forms are filed in the record group's case file.
+After completing appraisal, the archivist who accepts physical custody of the accession is responsible for having the Deed of Gift or Records Transfer Authorization form(s) signed and in hand. We cannot physically accept materials until ownership or custody has been transferred through these documents. Original deeds of gift are sent to Library Development, and photocopies are filed in the collection's case file. Original Records Transfer Authorization forms are filed in the record group's case file.
 
-New donations are accessioned in the Special Collections and Archives workroom. To prevent potential exposure of our existing holdings to mold, pests, or other conservation problems. New donations should not be accessioned in storage areas, unless they have already been checked for potential mold and pest issues.
+Unless they have already been checked for issues, new donations are accessioned in the Special Collections and Archives workroom to prevent potential exposure of our existing holdings to mold, pests, or other conservation problems.
 
 ---
 

@@ -7,7 +7,9 @@ The following instructions are not intended for born-digital collections with co
   - *Examples: [COVID-19 Community Archives](https://oac.cdlib.org/findaid/ark:/13030/c8db8892/), Oral History Project Collections*
 - Physical collections with a small number of digital objects and/or simple digital objects in accessible file formats (often migrated from physical media – floppies, CDs, cassette tapes, etc.) that don’t have extensive digital original order
   - *Examples: CDs, floppies, and USBs pulled from physical folders in primarily physical collections like [APACC](https://oac.cdlib.org/findaid/ark:/13030/c8jq17m2/) and [CRC5](https://oac.cdlib.org/findaid/ark:/13030/c85t3sm2/)*
- 
+
+---
+
 ### Accessioning
 
 #### Files are digital and not on physical media. No concern about file date/time stamps: 

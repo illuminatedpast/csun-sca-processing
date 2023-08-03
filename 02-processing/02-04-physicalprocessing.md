@@ -46,7 +46,7 @@ The Archivist returns to the ArchivesSpace Accession record and:
 
 <details>
   
-  <summary>Physical Processing Guidelines for Student Assistants</summary>
+  <summary>Physical Processing Guidelines for Student Assistants *click text for this to pivot open*</summary>
 
 ### Physical Processing Guidelines for Student Assistants
 

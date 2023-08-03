@@ -1,6 +1,6 @@
-# SC/A Processing Guide
+# CSUN SC/A Processing Guide
 
-This Accessioning and Processing Guide is a 2023 update to an existing version.
+This Accessioning and Processing Guide outlines our local practices. It is a 2023 github version of previous documentation.
 
 ***
 

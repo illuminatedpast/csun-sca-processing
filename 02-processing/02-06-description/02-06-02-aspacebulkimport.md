@@ -28,7 +28,7 @@ You wrap the words with code instead:
   - For single dates, enter the date only in the begin date and date expression fields. ASpace will load a single date as the begin date and ignore the end date, but you’ll get a bunch of error messages that will make it difficult to see other more serious errors in the import validation report.
   - For circa dates, enter as “ca. 1900” or “ca. 1900-1910”. There has to be a period and one space after the “ca” and there has to be one hyphen with no spaces in between a range.
 -	If you have some series with subseries, and other series without subseries, the number that goes into the hierarchy column can be counter intuitive. All folders in the collection with NOT have the same hierarchy number. The hierarchy numbers will need to look like:
--	
+
 >  - Series I (Hierarchy: 1)
 >    - Subseries A (Hierarchy: 2)
 >      - I’m a folder title (Hierarchy: 3)

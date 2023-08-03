@@ -43,7 +43,7 @@ Describe in the processing plan how detailed the description will be for digital
 7.	Create a “Weeds” folder for duplicates and unnecessary files, and create a separation record as you would with a physical collection. 
 8.	Resist the urge to arrange bigger collections at item level, unless there are PII or other restriction concerns. 
 
-#### Processing:
+#### Digital Processing:
 1.	Convert files to accessible and/or long-term preservation formats as needed
  1. For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
  2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.

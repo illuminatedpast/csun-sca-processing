@@ -16,11 +16,11 @@ The following instructions are not intended for born-digital collections with co
 
 #### Files need to be migrated off physical media:
 1.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: Unprocessed Accession 2023-004*
-2.	Capture any relevant data from the physical media (see: Procedures for Imaging Audio-Visual Materials document in H:\SpecialCollectionsArchives\Policies and Procedures\Processing)
+2.	Capture any relevant data from the physical media (see: Procedures for Imaging Audio-Visual Materials document on H Policies and Procedures>Processing)
 3.	Migrate digital files off physical media
- 1.	Archivist: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media QUESTION: Have a dedicated, isolated computer in the workroom or 314 that the Archivists can use (with write-blocker, virus software, ability to generate file directories for accession box lists, disconnected from internet/networks)?    
- 2. And/or Digital Services Librarian: Hard drives with PII and challenging file formats, Zip drives, VHS tapes, cassette tapes, records, other selected A/V media, 8mm/16mm   
- 3. And/or External vendor: 35mm/other film formats, large quantities of VHS/cassette tapes (paid for by specific collection funds or new funding requests to the Dean)
+ 1.	Archivist: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media when files are known, contain no viruses, and the overwrite risk is low
+ 2. And/or Digital Services Librarian: Hard drives with PII and challenging file formats, virus or overwriting concerns, Zip drives, VHS tapes, cassette tapes, records, other selected A/V media, 8mm/16mm 
+ 3. And/or External vendor: 35mm/other film formats, large quantities of VHS/cassette tapes (for collections with funding)
 4.	Transfer migrated files to the appropriate Unprocessed Accession folder on X.
 5.	If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession. 
 6.	Additional physical media may be discovered later during processing. This is ok.
@@ -45,20 +45,20 @@ Describe in the processing plan how detailed the description will be for digital
 
 #### Processing:
 1.	Convert files to accessible and/or long-term preservation formats as needed
- 1. For common recommended accessible file formats, reference the University Library Digital Collections Technical Reference Guide - Digitization on the W drive at a_Admin>Workflows
+ 1. For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
  2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.
  3. Place original file formats in the Preservation folder and accessible file formats in the Access folder.
 3.	Identify and redact PII  
  1. Place unredacted originals in the Preservation folder.
  2. Place redacted copies in the Access folder.
-4.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive:
+4.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive. As needed, create folders labeled:
  1. Open for Research 
  2. On Campus Use ONLY
  3. Restricted until YYYY
 5.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions): 
  [image here]
 6.	When processing is complete:
- 1. Move any Preservation folders to Glacier  
+ 1. Move any Preservation folders to Glacier (as of August 2023 hold on this and retain Preservation files on X)
  2. Retain Access folder in the Digital Files on X
  3. Delete Weeds folder
  4. Delete Unprocessed Accession folder unless there is a compelling reason to retain files for future migration or other needs

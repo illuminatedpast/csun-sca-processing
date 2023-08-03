@@ -14,6 +14,6 @@ This Accessioning and Processing Guide outlines our local practices. It is a 202
 - 2-3     [Arrangement]({{ site.baseurl }}/02-processing/02-03-arrangement.html)
 - 2-4     [Physical Processing]({{ site.baseurl }}/02-processing/02-04-physicalprocessing.html)
 - 2-5     [Digital Processing]({{ site.baseurl }}/02-processing/02-05-digitalprocessing.html)
-- 2-6     [Description & Finding Aids]({{ site.baseurl }}/02-processing/02-06-description.html)
+- 2-6     [Description & Finding Aids]({{ site.baseurl }}/02-processing/02-06-description/02-06-description.html)
 - 2-6-1   [ArchivesSpace]({{ site.baseurl }}/02-processing/02-06-description/02-06-01-aspaceentry.html)
 - 2-6-2   [ArchivesSpace Bulk Uploads]({{ site.baseurl }}/02-processing/02-06-description/02-06-02-aspacebulkimport.html)

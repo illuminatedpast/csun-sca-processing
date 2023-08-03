@@ -1,6 +1,6 @@
 # CSUN SC/A Processing Guide
 
-This Accessioning and Processing Guide outlines our local practices. It is a significantly revised 2023 github version of previous documentation, and features contributions from all Archivists and Librarians in the unit. A major review will occur again in 2028. Other revisions may occur before then, in response to issues discussed at monthly Processing Meetings and/or system changes.
+This Accessioning and Processing Guide outlines our local practices. It is a significantly revised 2023 github version of previous documentation, and features contributions from all Archivists and Librarians in the unit. A major review will occur again in 2028. Other revisions may occur before then in response to issues discussed at monthly Processing Meetings and/or system changes.
 
 ***
 

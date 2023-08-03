@@ -1,6 +1,6 @@
 ## Entering Finding Aid Data into ArchivesSpace
 
-[link to doc or include images from Word doc here]
+[link to doc or include instruction images from Word doc here]
 
 | Use | Field | Instructions |
 | ----------- | ----------- | ----------- |

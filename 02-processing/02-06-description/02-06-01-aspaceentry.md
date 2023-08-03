@@ -28,7 +28,7 @@
 | Unused | Physical Description | XXX | 
 | Unused | Physical Facets | XXX | 
 | Unused | Physical Location | XXX | 
-| Required | Preferred Citation | For information about citing items in this collection consult the appropriate style manual, or see the <extref linktype="simple" audience="external" show="embed" actuate="onrequest"href="http://libguides.csun.edu/citing-archives/index">Citing Archival Materials</extref> guide. | 
+| Required | Preferred Citation | For information about citing items in this collection consult the appropriate style manual, or see the [Citing Archival Materials](http://libguides.csun.edu/citing-archives/index) guide. | 
 | Optional | Processing Information | See SC/A Processing Manual | 
 | Optional | Related Materials | See SC/A Processing Manual | 
 | Required | Scope and Contents | See SC/A Processing Manual | 

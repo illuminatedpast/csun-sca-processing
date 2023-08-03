@@ -1,8 +1,10 @@
 ## Adding Accession Records to ArchivesSpace
 
+Required fields are indicated with a 
+
 | Field       | Instructions |
 | ----------- | ----------- |
-| Title      | Enter the Collection title.       |
+| Title :star:      | Enter the Collection title.       |
 | Identifier   | The Identifier is comprised of four numbers, which should be entered in the four boxes available in Aspace: 4-digit year, 3-digit accession #, Repository code, Collection code     |
 | Accession Date | The date the collection was deeded to CSUN (from the "Received by" signature line on the Deed of Gift). |
 | Content Description | Enter the Abstract here <br> Include a short identification of the creator of the collection, a summary of the records, significant correspondents, and, in the case of organizational records, previous and subsequent names of the organization. For University Archives it is important to note all creating agencies on campus during the life of the records in custody. <br> When spawning a resource record this gets spun into a Scope and Contents note |

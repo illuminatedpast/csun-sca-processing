@@ -4,24 +4,24 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 
 ### Preparing the Bulk Upload Spreadsheet for Box Lists
 
-- Recommend hiding all unnecessary columns until it matches exactly what we use in the rapid data entry in ASpace then let the student get to work.
+- Hide all unnecessary columns until it matches exactly what we use in the rapid data entry in ASpace, then let the student get to work.
 -	The Hierarchy has to be in order. So if you enter a file in hierarchy #3 it needs to come after the correct series you want it in (not above it in a different series)
 -	For Italics: Instead of italicizing things in the folder titles, wrap the words in code
 Instead of writing this: Alert: Against Communism in California
-You wrap the words with code instead:
+Wrap the words with code instead:
 ```
 <title render="italic">Alert: Against Communism in California</title>
 <title render="italic"> goes before the words you want Italicized and </title> goes after the words you want italicized.
 ```
--	Highlight the folder title column only in order to perform spell check solely on the title text – that way you are not receiving spelling errors on the collection acronym, etc.
--	Add a filter to row 4 to sort and quickly identify mistakes and outliers. E.g. checking the barcodes using a filter it was easy for me to see that one of them was one digit short and fix it before uploading
--	Do Not enter in multiple folder numbers here. That is just for the physical folder. E.g. for physical folders with the titles “Meeting Minutes, 1990-1992 (1 of 4)” through (4 of 4) would only be one line in the s/s: “Meeting Minutes 1990-1992”
--	Before you import the Excel for real, do a test load by checking the “Only validate” box when doing “Load Spreadsheet.” ASpace will run a background job and create a spreadsheet report that shows you where the errors are (or things go great and there are no errors!). You’ll need to download the spreadsheet to view the report outside of ASpace.
+-	Highlight the folder title column only in order to perform spell check solely on the title text to avoid receiving spelling errors on the collection acronym, etc.
+-	Add a filter to row 4 to sort and quickly identify mistakes and outliers. E.g. checking the barcodes using a filter it is easy to see if one is missing a digit
+-	Do not enter in multiple folder numbers here. That is just for the physical folder. E.g. for physical folders with multiple folder numbers, e.g. “Meeting Minutes, 1990-1992 (1 of 4)", only include the titles and dates in the spreadsheet, and NOT (1 of 4)
+-	Before importing the Excel for real, do a test load by checking the “Only validate” box when doing “Load Spreadsheet.” ASpace will run a background job and create a spreadsheet report that shows where the errors are (or things go great and there are no errors!). Download the spreadsheet to view the report outside of ASpace.
 
 
 ### Troubleshooting Failed Box List Uploads
 
--	We’ve had error messages when importing that were due to “Mixed Materials” missing the letter “s” on the end or for uncapitalized “m”.
+-	Check if “Mixed Materials” is missing the letter “s” on the end or if there is an uncapitalized “m”.
 -	If you get errors, make sure there isn't any data accidentally added to the hidden columns you're not using.
 -	Dates
   - Begin and End date fields cannot include non-numerical characters. If you are entering “1969 August” it must be numerical: 1969-08. ASpace uses YYYY-MM-DD or YYYY-MM

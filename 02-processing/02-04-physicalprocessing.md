@@ -3,6 +3,7 @@
 <details>
   <summary>Physical Processing Guidelines for Student Assistants</summary>
 
+
 These general guidelines are intended for use by Student Assistants and should be adapted as needed for specific collections’ processing requirements:
 Use the following supplies
 - Discards box

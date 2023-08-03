@@ -38,8 +38,8 @@ Unprocessed collections are listed in the ArchivesSpace Accessions module. Gener
 - **Finished Collections**
 When processing is completed collections are stored in one of the Special Collections and Archives storage areas. Different parts of a collection can be stored in different locations. Stable 20th and 21st century paper collections are usually stored in AS/RS. Audiovisual materials, fragile paper, photographs, and very small collections may be stored in 4 or Stacks. Consult [digital processing documentation](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-05-digitalprocessing.html) for up-to-date information on where to store processed digital files.
 
-### Administrative
-When processing is completed the processing archivist returns to the ArchivesSpace Accession record and:
+### Administrative Updates
+When processing is completed the processing archivist returns to the ArchivesSpace Accession record(s) and:
 - Deletes related accession container instances
 - Updates the Accession>Collection Management>Processing Status to read “Processed”
 - Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.

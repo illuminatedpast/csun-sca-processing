@@ -1,13 +1,10 @@
 ## Digital Processing
 
 The following instructions are not intended for born-digital collections with complex original order or large digital collections requiring more intensive preservation measures. These policies and procedures will be updated when we implement Preservica. This guide is intended primarily for processing collections from:
-- Scan and return projects
-  - Example: Old China Hands digital-only photo collections
-- Artificially created collections
-  - Examples: COVID-19 Community Archives, Oral History Project Collections
+- Scan and return projects *Example: Old China Hands digital-only photo collections*
+- Artificially created collections *Examples: COVID-19 Community Archives, Oral History Project Collections*
 - Small, simple digital collections
-- Physical collections with a small number of digital objects and/or simple digital objects in accessible file formats (often migrated from physical media – floppies, CDs, cassette tapes, etc.) that don’t have extensive digital original order.
-  - Examples: CDs, floppies, and USBs pulled from physical folders in primarily physical collections like APACC and CRC5
+- Physical collections with a small number of digital objects and/or simple digital objects in accessible file formats (often migrated from physical media – floppies, CDs, cassette tapes, etc.) that don’t have extensive digital original order. *Examples: CDs, floppies, and USBs pulled from physical folders in primarily physical collections like APACC and CRC5*
  
 ### Accessioning
 

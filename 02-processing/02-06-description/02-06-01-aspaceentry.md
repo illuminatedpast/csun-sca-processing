@@ -20,7 +20,7 @@
 | Optional | General | This field should only be used in instances where needed information cannot be included in any other field, which happens very rarely. Consult with at least two other archivists before using this field.  | 
 | Optional | Immediate Source of Acquisition | See SC/A Processing Manual | 
 | Unused | Index | XXX | 
-| Required | Language of Material	Choose the appropriate language from the drop-down menu.
+| Required | Language of Material	| Choose the appropriate language from the drop-down menu. |
 | Unused | Legal Status | XXX | 
 | Unused  | Materials Specific Details | XXX | 
 | Unused | Other Finding Aids | XXX | 

@@ -1,6 +1,7 @@
 ## Physical Processing
 
 <details>
+  
   <summary>Physical Processing Guidelines for Student Assistants</summary>
 
 ### Physical Processing Guidelines for Student Assistants

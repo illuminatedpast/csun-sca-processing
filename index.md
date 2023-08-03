@@ -14,4 +14,4 @@ This Accessioning and Processing Guide is a 2023 update to an existing version.
 - 2-3     [Arrangement]({{ site.baseurl }}/02-processing/02-03-arrangement.html)
 - 2-4     [Physical Processing]({{ site.baseurl }}/02-processing/02-04-physicalprocessing.html)
 - 2-5     [Digital Processing]({{ site.baseurl }}/02-processing/02-05-digitalprocessing.html)
-- 2-6     [Description]({{ site.baseurl }}/02-processing/02-06-description.html)
+- 2-6     [Description & Finding Aids]({{ site.baseurl }}/02-processing/02-06-description.html)

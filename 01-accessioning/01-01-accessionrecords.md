@@ -17,7 +17,8 @@ Unless they have already been checked for issues, new donations are accessioned 
   - Materials should be re-foldered on an as-needed basis only, and only to address immediate preservation concerns.
   - It is extremely important that the original order of the collection is maintained as much as possible during this process.
 
-- The accessioning archivist creates a collection Trello card if one does not already exist (see card template on Trello board for details). 
+- The accessioning archivist creates a collection Trello card if one does not already exist (see card template on Trello board for details).
+
 - The accessioning archivist creates an Accession record on ASpace that includes:
   - A unique accession number comprised of four digits to represent the year and the number that donation is for the year. Example: The first donation of 2023 would be assigned 2023-001. For old unaccessioned materials with unknown donation years, XXXX is used to represent the year, with the next sequentially available XXXX donation number appended. Refer to ArchivesSpace to determine the next available donation number.
   - A unique collection code. These are generally 3 letter codes with the letters pulled from the Collection Titles. In order to ensure these are unique, when assigning a new Collection Code the archivist needs to:

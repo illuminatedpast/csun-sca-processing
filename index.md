@@ -6,7 +6,7 @@ This Accessioning and Processing Guide outlines our local practices. It is a 202
 
 ## [Part 1: Accessioning Collections]({{ site.baseurl }}/01-accessioning.html/)
 - 1-1     [Accessioning Archival Collections]({{ site.baseurl }}/01-accessioning/01-01-accessionrecords.html)
-- 1-2     [Adding Accession Records to ArchivesSpace]({{ site.baseurl }}/01-accessioning/01-02-accessionsaspace.html)  
+- 1-2     [ArchivesSpace Accession Records]({{ site.baseurl }}/01-accessioning/01-02-accessionsaspace.html)  
 
 ## [Part 2: Processing Collections]({{ site.baseurl }}/02-processing.html/)
 - 2-1     [Processing Overview]({{ site.baseurl }}/02-processing/02-01-processingoverview.html)
@@ -15,5 +15,5 @@ This Accessioning and Processing Guide outlines our local practices. It is a 202
 - 2-4     [Physical Processing]({{ site.baseurl }}/02-processing/02-04-physicalprocessing.html)
 - 2-5     [Digital Processing]({{ site.baseurl }}/02-processing/02-05-digitalprocessing.html)
 - 2-6     [Description & Finding Aids]({{ site.baseurl }}/02-processing/02-06-description/02-06-description.html)
-- 2-6-1   [ArchivesSpace]({{ site.baseurl }}/02-processing/02-06-description/02-06-01-aspaceentry.html)
+- 2-6-1   [ArchivesSpace Finding Aids]({{ site.baseurl }}/02-processing/02-06-description/02-06-01-aspaceentry.html)
 - 2-6-2   [ArchivesSpace Bulk Imports]({{ site.baseurl }}/02-processing/02-06-description/02-06-02-aspacebulkimport.html)

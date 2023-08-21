@@ -85,7 +85,7 @@ ca. yyyy-ca. yyyy
 If necessary to include month or day in the date, the date written on the folder should be formatted Year Month Day, example: 1979 April 17 (IMPORTANT: This is the date expression field in ArchivesSpace. For the machine readable fields in ArchivesSpace dates must go in using numbers formatted YYYY-MM-DD, example: 1979-04-17)
 </details>
 
-![Folder Example](docs/assets/FlatFileFolderExample.png)
+![Folder example](./assets/FlatFileFolderExample.png)
 
-![Flat File Folder Example](docs/assets/Foldertemplate.png)
+![Flat file folder example](./assets/Foldertemplate.png)
 

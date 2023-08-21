@@ -52,9 +52,7 @@ Describe in the processing plan how detailed the description will be for digital
 - For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
 2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.
 3. Place original file formats in the Preservation folder and accessible file formats in the Access folder.
-4.	Identify and redact PII
-- Place unredacted originals in the Preservation folder.
-- Place redacted copies in the Access folder.
+4.	Identify and redact PII as needed. Place unredacted originals in the Preservation folder. Place redacted copies in the Access folder.
 5.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive. As needed, create folders labeled:
 - Open for Research
 - On Campus Use ONLY

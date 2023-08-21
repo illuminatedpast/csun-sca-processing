@@ -13,7 +13,7 @@ The following instructions are not intended for born-digital collections with co
 ### Accessioning
 
 #### Files are digital and not on physical media. No concern about file date/time stamps: 
-1.	Direct donor to Box location to upload files. Box will perform a virus check upon upload.     
+1.	Direct donor to a location on Box to upload files. Box will perform a virus check upon upload.     
 2.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: Unprocessed Accession 23-04*
 3.	Transfer files from Box location to unprocessed accession folder on X
 4.	Accession files as you would a physical collection.
@@ -49,23 +49,23 @@ Describe in the processing plan how detailed the description will be for digital
 
 #### Digital Processing:
 1.	Convert files to accessible and/or long-term preservation formats as needed
- 1. For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
- 2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.
- 3. Place original file formats in the Preservation folder and accessible file formats in the Access folder.
-3.	Identify and redact PII  
- 1. Place unredacted originals in the Preservation folder.
- 2. Place redacted copies in the Access folder.
-4.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive. As needed, create folders labeled:
- 1. Open for Research 
- 2. On Campus Use ONLY
- 3. Restricted until YYYY
-5.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions): 
+- For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
+2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.
+3. Place original file formats in the Preservation folder and accessible file formats in the Access folder.
+4.	Identify and redact PII
+- Place unredacted originals in the Preservation folder.
+- Place redacted copies in the Access folder.
+5.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive. As needed, create folders labeled:
+- Open for Research
+- On Campus Use ONLY
+- Restricted until YYYY
+6.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions): 
  [image here]
-6.	When processing is complete:
- 1. Move any Preservation folders to Glacier (as of August 2023 hold on this and retain Preservation files on X)
- 2. Retain Access folder in the Digital Files on X
- 3. Delete Weeds folder
- 4. Delete Unprocessed Accession folder unless there is a compelling reason to retain files for future migration or other needs
+7.	When processing is complete:
+- Move any Preservation folders to Glacier (as of August/September 2023 hold on this and retain Preservation files on X)
+- Retain Access folder in the Digital Files on X
+- Delete Weeds folder
+- Delete Unprocessed Accession folder unless there is a compelling reason to retain files for future migration or other needs
  
 
 

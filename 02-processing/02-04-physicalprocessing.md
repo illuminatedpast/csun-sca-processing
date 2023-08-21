@@ -44,11 +44,11 @@ When processing is completed the processing archivist returns to the ArchivesSpa
 - Updates the Accession>Collection Management>Processing Status to read “Processed”
 - Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.
 
+### Physical Processing Guidelines for Student Assistants
+
 <details>
   
-  <summary>Physical Processing Guidelines for Student Assistants (click text for this to pivot open)</summary>
-
-### Physical Processing Guidelines for Student Assistants
+<summary>Click here to pivot guidelines open. </summary>
 
 These general guidelines are intended for use by Student Assistants and should be adapted as needed for specific collections’ processing requirements:
 Use the following supplies

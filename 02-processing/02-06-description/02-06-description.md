@@ -94,20 +94,41 @@ Any series  included in the collection are explicitly listed. Other paragraphs t
 Each series should receive at least one paragraph of description, with the series title appearing boldfaced within the text.     
 *Example: The Correspondence consists of . . .*
 
+<details>
+  
+<summary>Anatomy of a Scope Note</summary>
+
+Anatomy of a Scope Note
+- Introductory paragraph
+  - include general statement regarding significance of collection (what events, people, phenomena, etc., are documented here).
+  - describe general emphasis or focus of collection, including subject matter, geographic areas, and inclusive dates.	
+  -  most common types/formats of records in collection.
+  - strengths and/or weaknesses in the collection (optional).
+  - arrangement note at major-series level. 
+
+- All major series paragraphs should, whenever possible, include the following information:
+  - include statement regarding significance of records in series (what events, people, phenomena, etc., are documented here as opposed to in other series in the collection).
+  - describe emphasis or focus of series, including subject matter, geographic areas, and inclusive dates.
+  - list all subseries included in series (as appropriate).
+  - types/formats of records in series.
+  - filing order of series.
+
+</details>
+
 #### Arrangement  of Materials   
 This section is used when collections contain Series. It should include a simple outline of the collection’s organization, showing major series and all subseries, with dates.   
 
-*Example:   
-Series I: Correspondence, 1920-1923   
-	Subseries A: 1920-1921   
-	Subseries B: 1922-1923   
-Series II: Meeting Minutes, 1912-1950   
-Series III: Photographs, 1910-1975   
-	Subseries A: Parker Family, 1910-1952   
-	Subseries B: Davis Family, 1950-1954*   
+> *Example:   
+> Series I: Correspondence, 1920-1923   
+> 	Subseries A: 1920-1921   
+> 	Subseries B: 1922-1923   
+> Series II: Meeting Minutes, 1912-1950   
+> Series III: Photographs, 1910-1975   
+> 	Subseries A: Parker Family, 1910-1952   
+> 	Subseries B: Davis Family, 1950-1954*   
 
 #### Existence and Location of Copies   
-(see 13. Box List for additional information about linking to digital materials.) This field can be used to direct users to any digital surrogates that might be available in the library's digital collections or elsewhere. 
+This field can be used to direct users to any digital surrogates that might be available in the library's digital collections or elsewhere. 
  
 #### Related Materials   
 This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest.

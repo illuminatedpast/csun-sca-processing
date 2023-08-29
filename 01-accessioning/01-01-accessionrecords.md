@@ -1,5 +1,5 @@
 ## Accessioning Archival Collections
-Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use Trello to track the progression of a collection through the accessioning process.
+Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use [Trello](https://trello.com/b/tNGI0Amt/sc-a-accessioning-and-processing) (internal link) to track the progression of a collection through the accessioning process.
 
 After completing appraisal, the archivist who accepts physical custody of the accession is responsible for having the Deed of Gift or Records Transfer Authorization form(s) signed and in hand. We cannot physically accept materials until ownership or custody has been transferred through these documents. Original deeds of gift are sent to Library Development, and photocopies are filed in the collection's case file. Original Records Transfer Authorization forms are filed in the record group's case file.
 
@@ -17,7 +17,7 @@ Unless they have already been checked for issues, new donations are accessioned 
   - Materials should be re-foldered on an as-needed basis only, and only to address immediate preservation concerns.
   - It is extremely important that the original order of the collection is maintained as much as possible during this process.
 
-- The accessioning archivist creates a collection Trello card if one does not already exist (see card template on Trello board for details).
+- The accessioning archivist creates a collection Trello card if one does not already exist (see card template on Trello board in "Template and Upcoming Donations" column).
 
 - The accessioning archivist creates an Accession record on ASpace that includes:
   - A unique accession number comprised of four digits to represent the year and the number that donation is for the year. Example: The first donation of 2023 would be assigned 2023-001. For old unaccessioned materials with unknown donation years, XXXX is used to represent the year, with the next sequentially available XXXX donation number appended. Refer to ArchivesSpace to determine the next available donation number.

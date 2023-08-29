@@ -1,6 +1,6 @@
 ## Processing Plans
 
-After a collection has been selected for processing, background materials from department case files are gathered, preliminary historical research is performed, the collection is surveyed, and a processing plan is prepared. The processing archivist updates any associated ArchivesSpace Accession records to "In Processing" status (Accession>Collection Management>Processing Status). During this planning stage, the archivist consults with other staff members as needed, especially the SC/A Librarian who approves all processing plans. 
+After a collection has been selected for processing, background materials from department case files are gathered, preliminary historical research is performed, the collection is surveyed, and a processing plan is prepared. The processing archivist updates any associated ArchivesSpace Accession records to "In Processing" status (located under Accession>Collection Management>Processing Status). During this planning stage, the archivist consults with other staff members as needed, especially the SC/A Librarian who approves all processing plans. 
 
 For collections lacking original order, archivists should avoid imposing complex series structure with many small series and subseries. Older finding aids in SC/A may contain complex imposed series structure, but this practice is no longer done.
 

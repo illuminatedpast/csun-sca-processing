@@ -12,13 +12,21 @@ The full collection name (with abbreviations in parentheses) must be included.
 #### Identifier *Required*   
 The unique identifier assigned to the collection, used for cataloging and paging. The assigned collection code letters can be reflective of the collection (for example, the Fred M. Greguras Papers code is FGP), but this is not required. The uniqueness of the collection code is the only requirement.
 
+---
+
 ### Languages *Required*
+
+---
 
 ### Dates *Required*   
 The range of creation dates for materials in the collection (not the life of the individual or organization that created the collection.) 
 
+---
+
 ### Extents *Required*  
 This section includes the total linear footage for the collection, as well as the digital extent as applicable.
+
+---
 
 ### Finding Aid Data
 
@@ -45,14 +53,24 @@ Always English language and Latin script.
 #### Finding Aid Status   
 Drop-down menu should display the current status of the finding aid.
 
+---
+
 ### Revision Statements   
+
+---
 
 ### Related Accessions   
 
+---
+
 ### Agent Links   
+
+---
 
 ### Subjects *Required*   
 Select the appropriate format of materials terms from the options listed in ArchivesSpace.
+
+---
 
 ### Notes
      
@@ -125,7 +143,19 @@ This section is used when collections contain Series. It should include a simple
 > Series II: Meeting Minutes, 1912-1950   
 > Series III: Photographs, 1910-1975   
 > 	Subseries A: Parker Family, 1910-1952   
-> 	Subseries B: Davis Family, 1950-1954*   
+> 	Subseries B: Davis Family, 1950-1954*
+
+The Series and Subseries entered into ArchivesSpace require linebreaks in order to format properly for display on the Online Archive of California. *Example:*
+
+```
+
+<p>Series I: Business, Social, Religious, and Educational Groups, 1951-1989</p>
+<p>Series II: Events and Places, 1952-1988</p>
+<p>Series III: People, 1955-1989</p>
+<p>Series IV: Products, Non-Human Subjects, and Working Papers and Tests, 1950-1978</p>
+
+
+```
 
 #### Existence and Location of Copies   
 This field can be used to direct users to any digital surrogates that might be available in the library's digital collections or elsewhere. 
@@ -133,8 +163,12 @@ This field can be used to direct users to any digital surrogates that might be a
 #### Related Materials   
 This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest.
 
+---
+
 ### Instances     
 The box list embodies the most detailed level of access we provide. It should supply as much detail as is appropriate to the nature of the collection. The majority of collections here are described to the folder level. Extremely detailed description, because it requires an infinite amount of time and clutters the box list, is as bad as too little description. Headings should be meaningful, reflecting the content of the material. Folder and item level notes fields are rarely used, but may be included as appropriate for Conditions Governing Access restrictions and/or for Scope and Content.
+
+---
 
 ### Review and Distribution Procedures for Finding Aids
 The Special Collections and Archives Librarian or Head of Special Collections and Archives receives the final versions of all finding aids, and checks them for consistency and accuracy with an eye to researcher access. After making any necessary revisions, the SC/A Librarian sends the finding aid to cataloging for addition to the Online Archive of California and the Library catalog.

@@ -36,8 +36,12 @@
 | Required | Scope and Contents | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
 | Unused | Separated Materials | XXX | 
 
-### Entering Finding Aid Box and Folder Lists
+### Instruction Documents for Entering Front Matter, Box and Folder Lists, and Digital Objects into ArchivesSpace
 
-### Entering Digital Objects
+Instructions for [Entering Front Matter into ASpace](https://mycsun.box.com/s/rowtxkf33b8kfuecthq3pe6ly09hv47t) (internal link)
+
+Instructions for [Entering Finding Aid Box and Folder Lists into ASpace](https://mycsun.box.com/s/6g3mrw9ixrkezeykokxyzfjo68h2nmbu) (internal link)
+
+Instructions for [Entering Digital Objects into ASpace](https://mycsun.box.com/s/y8ttgfl08qr3mk3g5wkbl3ypngeq9ekn) (internal link)
 
 ***

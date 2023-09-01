@@ -1,6 +1,6 @@
 ## Using ArchivesSpace Bulk Import Tools 
 
-The bulk import tool allows an archivist to use Excel to load all series, sub-series, and folder titles in ASpace at once. It allows access to spell check, and other methods of data clean up. The processing archivist prepares the bulk upload spreadsheet. Student Assistants may assist with data entry.
+The bulk import tool allows an archivist to use Excel to load all series, sub-series, and folder titles in ASpace at once. It allows access to spell check, and other methods of data clean up. The processing archivist prepares the [bulk upload spreadsheet](https://mycsun.box.com/s/tsu7fjrd0a2tfiklcs49lt4hdyd3dfnp) (internal link). Student Assistants may assist with data entry.
 
 ### Preparing the Bulk Upload Spreadsheet for Box Lists
 

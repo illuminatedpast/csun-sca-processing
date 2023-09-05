@@ -1,8 +1,6 @@
 ## Entering Finding Aid Data into ArchivesSpace
 
-### Entering Finding Aid Front Matter
-
-[link to doc or include instruction images from Word doc here]
+### Entering Finding Aid Front Matter Quick Reference Table
 
 | Use | Field | Instructions |
 | ----------- | ----------- | ----------- |

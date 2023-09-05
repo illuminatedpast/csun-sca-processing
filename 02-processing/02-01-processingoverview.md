@@ -10,4 +10,4 @@ The processing archivist chooses the level of arrangement, description, and pres
 
 Appropriate arrangement, description, and preservation are more important than uniform arrangement, description, and preservation. Historical value, anticipated use, physical condition, donor agreements, and expense of treatment options (in both time and money) should all be considered when choosing the level to which a collection should be processed.
 
-Archival processing work is tracked on our internal-facing [Trello Board](https://trello.com/b/tNGI0Amt/sc-a-accessioning-and-processing) (internal link). See also our workflow diagrams on Box. **insert link here**
+Archival processing work is tracked on our internal-facing [Trello Board](https://trello.com/b/tNGI0Amt/sc-a-accessioning-and-processing) (internal link). For a high-level workflow overview, see the [Processing Workflow Diagram on Box](https://mycsun.box.com/s/452hicdhpu894w0ongtv1tffhmxyb5s4) (internal link)

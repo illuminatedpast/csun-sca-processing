@@ -23,8 +23,9 @@ Required fields are indicated by a bold field title.
 | Related Resources | Enter if there are any |
 | Related Accessions | Enter if there are any |
 | External Documents | Enter in any external documents that are relevant here (e.g. a donor-created inventory that is saved in the physical case file or in the collection directory on the H drive) |
-| **Instances** | Add an instance for each box. <br> They should be **"Mixed Materials"** and make sure to enter the **barcode** and a **location** |
-| **Collection Management** | Under "Processing Status" select "Unprocessed" if this is a new accession, or  "In Processing" if you are currently processing this collection. <br> **Once an accession has be processed reopen the accession record and change the "processing status" field to "Processed"** |
+| **Instances - Container Instance for a Physical Box** | Add an instance for each box. <br> They should be **"Mixed Materials"** and make sure to enter the **barcode** and a **location** |
+| **Instances - Digital Objects** | Add a single Digital Object instance to represent all digital files. Follow [instructions for creating Digital Objects in ASpace](https://mycsun.app.box.com/file/1296297597333), with the exception of entering both the Digital Object Title and Identifier as the title of the digital accessions folder (Example: <em>UnprocessedAccession_2019-015</em>) |
+| **Collection Management** | Under "Processing Status" select "Unprocessed" if this is a new accession, or "In Processing" if you are currently processing this collection. <br> **Once an accession is processed, reopen the accession record and change the "processing status" field to "Processed"** |
 
 ---
 

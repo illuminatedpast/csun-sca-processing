@@ -1,6 +1,6 @@
 ## Adding Accession Records to ArchivesSpace
 
-Required fields are indicated by a bold field title.
+Required fields are indicated by a bold field title. 
 
 | Field       | Instructions |
 | ----------- | ----------- |
@@ -30,3 +30,7 @@ Required fields are indicated by a bold field title.
 ---
 
 Data in an Accession record can be spawned into additional Accession records to reflect a hierarchical or sibling relationship. It can also be spawned into a new Resource record. Edits to a spawned Resource record do not change the Accession record it came from. Only the first Accession record can be spawned to the Resource record; data from subsequent Accession records associated with the same resource will need to be entered manually.
+
+---
+
+A Word document version of these instructions is located on [Box](https://mycsun.box.com/s/6as126qgbfgprvtp6h7oqervuvqoxmsg) (internal link).

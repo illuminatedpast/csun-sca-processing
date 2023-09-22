@@ -19,7 +19,7 @@ The following instructions are not intended for born-digital collections with co
 4.	Accession files as you would a physical collection.
 
 #### Files need to be migrated off physical media:
-1.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: Unprocessed Accession 2023-004*
+1.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: UnprocessedAccession2023-004*
 2.	Capture any relevant data from the physical media (see: Procedures for Imaging Audio-Visual Materials document on H Policies and Procedures>Processing)
 3.	Migrate digital files off physical media
  1.	Archivist: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media when files are known, contain no viruses, and the overwrite risk is low
@@ -50,21 +50,15 @@ Describe in the processing plan how detailed the description will be for digital
 #### Digital Processing:
 1.	Convert files to accessible and/or long-term preservation formats as needed
 - For common recommended accessible file formats, reference the "University Library Digital Collections Technical Reference Guide - Digitization" on the W drive at a_Admin>Workflows
-
 2. Within your Digital Files folder, create a Preservation folder and an Access folder. The file trees should match in each folder.
-   
 3. Place original file formats in the Preservation folder and accessible file formats in the Access folder.
-  
 4.	Identify and redact PII as needed. Place unredacted originals in the Preservation folder. Place redacted copies in the Access folder.
-  
 5.	When relevant, separate any restricted files from unrestricted files in your Digital Files folder to ease the pick from shelf copying of folders onto the reading room hard drive. As needed, create folders labeled:
 - Open for Research
 - On Campus Use ONLY
 - Restricted until YYYY
-
 6.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions): 
  [image here]
-
 7.	When processing is complete:
 - Move any Preservation folders to Glacier (as of August/September 2023 hold on this and retain Preservation files on X)
 - Retain Access folder in the Digital Files on X

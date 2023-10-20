@@ -40,7 +40,7 @@ Unless they have already been checked for issues, new donations are accessioned 
 
 - The accessioning archivist creates a digital and a physical Case File, which combined with ASpace, will include documentation of actions undertaken by archivists with regards to a particular accession.  This includes Separation Records, donor-provided inventories, and any other relevant paperwork.  Additional documentation generated during processing, digitization, or other activities will be stored in these files in the future.
 
-- Next the accessioning archivist places the collection boxes in AS/RS or on shelves, and adds the extent and box locations to ArchivesSpace. To load new boxes into AS/RS, the Archivist fills out the [AS/RS Load Inventory Form](https://mycsun.box.com/s/8t74qtk1j9xqp91sfxrblevyhhnu9qsf) (internal link) and sends the AS/RS Lead an e-mail to let them know that a new Non-LC (NLC) Load is coming down for storage.
+- Next the accessioning archivist places the collection boxes in AS/RS or on shelves, and adds the extent and box locations to ArchivesSpace. To load new boxes into AS/RS, the Archivist fills out the [AS/RS Load Inventory Form](https://mycsun.box.com/s/8t74qtk1j9xqp91sfxrblevyhhnu9qsf) (internal link) and sends the AS/RS Lead an e-mail to let them know that a new Non-LC (NLC) Load is coming down for storage. The AS/RS Lead will send to the Archivist the completed form with the AS/RS bin number. The Archivist saves the completed AS/RS Load Inventory Form to the Collection folder on H.
 
 ***
 

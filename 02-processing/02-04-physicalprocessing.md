@@ -55,4 +55,8 @@ The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.c
 ### Flat File Folder Template
 ![Flat file folder example](docs/assets/FlatFileFolderExample.png)
 
+***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+
 

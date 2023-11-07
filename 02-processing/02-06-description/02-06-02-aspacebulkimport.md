@@ -38,3 +38,5 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 >    - I’m a folder title (Hierarchy: 2)
 
 ***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)

@@ -173,3 +173,7 @@ The box list embodies the most detailed level of access we provide. It should su
 ### Review and Distribution Procedures for Finding Aids
 The Special Collections and Archives Librarian or Head of Special Collections and Archives receives the final versions of all finding aids, and checks them for consistency and accuracy with an eye to researcher access. After making any necessary revisions, the SC/A Librarian sends the finding aid to cataloging for addition to the Online Archive of California and the Library catalog.
 
+***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+

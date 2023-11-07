@@ -34,3 +34,7 @@ Data in an Accession record can be spawned into additional Accession records to 
 ---
 
 A Word document version of these instructions is located on [Box](https://mycsun.box.com/s/6as126qgbfgprvtp6h7oqervuvqoxmsg) (internal link).
+
+***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)

@@ -43,3 +43,5 @@ Instructions for [Entering Finding Aid Box and Folder Lists into ASpace](https:/
 Instructions for [Entering Digital Objects into ASpace](https://mycsun.box.com/s/y8ttgfl08qr3mk3g5wkbl3ypngeq9ekn) (internal link)
 
 ***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)

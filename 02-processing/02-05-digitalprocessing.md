@@ -40,7 +40,7 @@ Describe in the processing plan how detailed the description will be for digital
 #### Arrangement:
 1.	Create a folder on the X drive labeled “COLLECTIONCODE Digital Files” *Example: MUE Digital Files* 
 2.	Move a copy of the files from the Unprocessed Accession folder into the Digital Files folder. This is your working files folder. Do not modify the files in the Unprocessed Accession folder.
-3.	If the collection processing plan includes item-level arrangement and file renaming, arrange the digital items into digital folders labeled "COLLECTIONCODE_[Series if applicable]_FolderTitle_Date" *Example: MEA_I_ConservativeIllusionCorrespondence_1983*
+3.	If the collection processing plan includes folder-level arrangement and file renaming, arrange the digital items into digital folders labeled "COLLECTIONCODE_[Series if applicable]_FolderTitle_Date" *Example: MEA_I_ConservativeIllusionCorrespondence_1983*
 4.	Treat CDs and floppies pulled from physical folders as you would a pulled oversized item. Use the same folder title for the digital object to link it to the folder it was removed from.
 5.	Abbreviate folder titles as needed to keep file names short. Expand and spell out folder titles when they are entered into ASpace.   
 6.	Do not rename individual files.

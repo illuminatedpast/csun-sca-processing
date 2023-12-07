@@ -40,7 +40,7 @@ When processing is completed collections, [box labels](https://mycsun.box.com/s/
 
 ### Administrative Updates
 When processing is completed the processing archivist returns to the ArchivesSpace Accession record(s) and:
-- Deletes related accession container instances
+- Deletes related accession container instances. If these accession boxes were stored in AS/RS before processing, the Archivists notifies the AS/RS Lead that the AS/RS accession box records can now be deleted.
 - Updates the Accession>Collection Management>Processing Status to read “Processed”
 - Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.
 

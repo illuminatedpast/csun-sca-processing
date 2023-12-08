@@ -34,7 +34,7 @@ Unless they have already been checked for issues, new donations are accessioned 
   - The extent of the collection and number of boxes after accessioning is completed.
   - The shelf location of boxes after accessioning.
 
-- An "Unprocessed Accession" sign should be affixed to each box.  The "Unprocessed Accession" sign includes the name of the collection, name of the donor, date of the addition, the name of the accessioning archivist, a brief description of contents, and the accession number.
+- An ["Unprocessed Accession"](https://mycsun.box.com/s/cy19yoz1gzdhjzhychc7824varcsz92p) (internal link) sign should be affixed to each box.  The "Unprocessed Accession" sign includes the name of the collection, name of the donor, date of the addition, the name of the accessioning archivist, a brief description of contents, and the accession number.
 
 - Sometimes new accessions contain materials that obviously should not be kept with the archival records.  (For example, a faculty member's personal papers may arrive with 10 boxes of books from the shelves in their office.)  When this is the case, the accessioner may immediately separate materials that are better handled separately from the manuscript or archival materials by completing a Separation Record, which details those materials to be cataloged into the Special Collections and Archives stacks, returned to the donor, sent to the main stacks, etc.
 

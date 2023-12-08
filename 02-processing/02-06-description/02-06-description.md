@@ -6,24 +6,24 @@ Some elements should be used in all finding aids, while others are optional, and
 
 ### Basic Information
 
-#### Title *Required*   
+#### Title *REQUIRED*
 The full collection name (with abbreviations in parentheses) must be included.
 
-#### Identifier *Required*   
+#### Identifier *REQUIRED*
 The unique identifier assigned to the collection, used for cataloging and paging. The assigned collection code letters can be reflective of the collection (for example, the Fred M. Greguras Papers code is FGP), but this is not required. The uniqueness of the collection code is the only requirement.
 
 ---
 
-### Languages *Required*
+### Languages *REQUIRED*
 
 ---
 
-### Dates *Required*   
+### Dates *REQUIRED*
 The range of creation dates for materials in the collection (not the life of the individual or organization that created the collection.) 
 
 ---
 
-### Extents *Required*  
+### Extents *REQUIRED*
 This section includes the total linear footage for the collection, as well as the digital extent as applicable.
 
 ---
@@ -37,7 +37,7 @@ Repository and Collection Code
 #### Finding Aid Title   
 "Guide to the [Collection Title]"
 
-#### Finding Aid Filing Title *Required*   
+#### Finding Aid Filing Title *REQUIRED*
 The title adjusted for sorting should be entered into this field, according to OAC guidelines for sort titles. 
 *Example: Mulholland (Catherine) Collection*
 
@@ -67,7 +67,7 @@ Drop-down menu should display the current status of the finding aid.
 
 ---
 
-### Subjects *Required*   
+### Subjects *REQUIRED*
 Select the appropriate format of materials terms from the options listed in ArchivesSpace.
 
 ---
@@ -77,24 +77,24 @@ Select the appropriate format of materials terms from the options listed in Arch
 #### Immediate Source of Acquisition   
 This section includes the name(s) of the collection's donor(s), if known, as well as when the donation was made. This should be formatted as [Donor Name], [YYYY]. If the collection came in multiple pieces, use the date of the first accession’s donation. Add subsequent donations to the Accruals field.    
 
-#### Conditions Governing Access *Required*   
+#### Conditions Governing Access *REQUIRED*
 The terms, conditions, and length of any restrictions must be included in the finding guide for each collection.
 
-#### Conditions Governing Use *Required*   
+#### Conditions Governing Use *REQUIRED*
 Use the department’s copyright statement::\SpecialCollectionsArchives\Administrative\Copyright statements\CSUN Copyright Statements.docx  
 
-#### Processing Information *Required*   
+#### Processing Information *REQUIRED*   
 Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist.
 
 #### Accruals   
 Note here any additional donations made after the initial donation. This is indicated by listing the year of the donation only.   
 *Example: 2010, 2013, 2014, 2015, 2017, 2018*
 
-#### Preferred Citation *Required*   
+#### Preferred Citation *REQUIRED*
 Use the department's citation statement:
 For information about citing items in this collection consult the appropriate style manual, or see the [Citing Archival Materials](https://libguides.csun.edu/citing-archives) guide.   
 
-#### Abstract *Required*   
+#### Abstract *REQUIRED*
 Abstracts should include date spans, a brief identification and description of the collection's creator, a summary of the content of the records, significant correspondents, and (in the case of organizational records), previous and subsequent names of the organization. For University Archives materials, it is important to note all the creating agencies involved in the life of the records being described. 
 
 #### Administrative/Biographical History   
@@ -104,7 +104,7 @@ Administrative Histories generally begin with information about the initial orga
 
 Biographies generally begin with information about an individuals' birth, including when, where, and to whom. They include brief genealogical and family background data, if available, as well as information about education, early career, marriage and family. Focus on activities documented by the papers, including relationships to important figures and with organizations. End with a note on current activities or with a note on the date, place, and circumstances of death. Do not include information that will quickly become outdated.  
 
-#### Scope and Content Note *Required*   
+#### Scope and Content Note *REQUIRED*   
 The purpose of this section is to provide information in narrative form about the records unit as a whole. It should consist of an introductory paragraph, which describes the emphasis or focus of the records in terms of subject matter, geographic areas and dates emphasized and types of records. Weaknesses or gaps in the documentation as well as strengths and potential research possibilities might also be mentioned. See [Anatomy of a Scope Note](https://mycsun.box.com/s/30yltrazxe6ysy73b39hgmdgnmnspd6m) (internal link) for additional guidance.
 
 Any series  included in the collection are explicitly listed. Other paragraphs that describe the content of individual series or subseries follow. These descriptions serve little purpose if they merely repeat the container list in narrative form; they should describe and analyze the content and substance of the records. Refer to recent finding aids for examples.

@@ -105,33 +105,12 @@ Administrative Histories generally begin with information about the initial orga
 Biographies generally begin with information about an individuals' birth, including when, where, and to whom. They include brief genealogical and family background data, if available, as well as information about education, early career, marriage and family. Focus on activities documented by the papers, including relationships to important figures and with organizations. End with a note on current activities or with a note on the date, place, and circumstances of death. Do not include information that will quickly become outdated.  
 
 #### Scope and Content Note *Required*   
-The purpose of this section is to provide information in narrative form about the records unit as a whole. It should consist of an introductory paragraph, which describes the emphasis or focus of the records in terms of subject matter, geographic areas and dates emphasized and types of records. Weaknesses or gaps in the documentation as well as strengths and potential research possibilities might also be mentioned. 
+The purpose of this section is to provide information in narrative form about the records unit as a whole. It should consist of an introductory paragraph, which describes the emphasis or focus of the records in terms of subject matter, geographic areas and dates emphasized and types of records. Weaknesses or gaps in the documentation as well as strengths and potential research possibilities might also be mentioned. See [Anatomy of a Scope Note](https://mycsun.box.com/s/30yltrazxe6ysy73b39hgmdgnmnspd6m) (internal link) for additional guidance.
 
 Any series  included in the collection are explicitly listed. Other paragraphs that describe the content of individual series or subseries follow. These descriptions serve little purpose if they merely repeat the container list in narrative form; they should describe and analyze the content and substance of the records. Refer to recent finding aids for examples.
 
 Each series should receive at least one paragraph of description, with the series title appearing boldfaced within the text.     
 *Example: The Correspondence consists of . . .*
-
-<details>
-  
-<summary>Anatomy of a Scope Note</summary>
-
-Anatomy of a Scope Note
-- Introductory paragraph
-  - include general statement regarding significance of collection (what events, people, phenomena, etc., are documented here).
-  - describe general emphasis or focus of collection, including subject matter, geographic areas, and inclusive dates.	
-  -  most common types/formats of records in collection.
-  - strengths and/or weaknesses in the collection (optional).
-  - arrangement note at major-series level. 
-
-- All major series paragraphs should, whenever possible, include the following information:
-  - include statement regarding significance of records in series (what events, people, phenomena, etc., are documented here as opposed to in other series in the collection).
-  - describe emphasis or focus of series, including subject matter, geographic areas, and inclusive dates.
-  - list all subseries included in series (as appropriate).
-  - types/formats of records in series.
-  - filing order of series.
-
-</details>
 
 #### Arrangement  of Materials   
 This section is used when collections contain Series. It should include a simple outline of the collection’s organization, showing major series and all subseries, with dates.   

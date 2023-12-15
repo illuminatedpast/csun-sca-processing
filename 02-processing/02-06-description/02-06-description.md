@@ -75,7 +75,7 @@ Select the appropriate format of materials terms from the options listed in Arch
 ### Notes
      
 #### Immediate Source of Acquisition   
-This section includes the name(s) of the collection's donor(s), if known, as well as when the donation(s) were made. This should be formatted as [Donor Name], [YYYY]. If the collection came in multiple pieces, add the subsequent relevant dates, separating dates with a comma.  
+This section includes the name(s) of the collection's donor(s), if known, as well as when the donation(s) were made. This should be formatted as [Donor Name], [YYYY]. If the collection came in multiple years, add the subsequent relevant dates using commas to separate them.
 
 #### Conditions Governing Access *REQUIRED*
 The terms, conditions, and length of any restrictions must be included in the finding guide for each collection.

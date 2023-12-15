@@ -75,7 +75,7 @@ Select the appropriate format of materials terms from the options listed in Arch
 ### Notes
      
 #### Immediate Source of Acquisition   
-This section includes the name(s) of the collection's donor(s), if known, as well as when the donation was made. This should be formatted as [Donor Name], [YYYY]. If the collection came in multiple pieces, use the date of the first accession’s donation. Add subsequent donations to the Accruals field.    
+This section includes the name(s) of the collection's donor(s), if known, as well as when the donation(s) were made. This should be formatted as [Donor Name], [YYYY]. If the collection came in multiple pieces, add the subsequent relevant dates, separating dates with a comma.  
 
 #### Conditions Governing Access *REQUIRED*
 The terms, conditions, and length of any restrictions must be included in the finding guide for each collection.
@@ -87,8 +87,7 @@ Use the department’s copyright statement::\SpecialCollectionsArchives\Administ
 Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist.
 
 #### Accruals   
-Note here any additional donations made after the initial donation. This is indicated by listing the year of the donation only.   
-*Example: 2010, 2013, 2014, 2015, 2017, 2018*
+Note here any additional anticipated donations, as appropriate. This field is primarily relevant for record groups that have record retention schedules.
 
 #### Preferred Citation *REQUIRED*
 Use the department's citation statement:

@@ -5,7 +5,7 @@
 | Use | Field | Instructions |
 | ----------- | ----------- | ----------- |
 | Required | Abstract | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html) | 
-| Optional | Accruals | Include accruals information when we know it. | 
+| Optional | Accruals | Include accruals information when appropriate. | 
 | Unused | Appraisal | XXX | 
 | Optional | Arrangement | Include a series and subseries outline if the collection has one. | 
 | Unused | Bibliography | XXX | 

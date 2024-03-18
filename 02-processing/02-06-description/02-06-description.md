@@ -112,16 +112,16 @@ Each series should receive at least one paragraph of description, with the serie
 *Example: The Correspondence consists of . . .*
 
 #### Arrangement  of Materials   
-This section is used when collections contain Series. It should include a simple outline of the collection’s organization, showing major series and all subseries, with dates.   
+This section is used when collections contain Series. It should include a simple outline of the collection’s organization, showing major series and all subseries, with dates. To indent a Subseries, place 4 spaces in front of the Subseries title.
 
 > *Example:   
 > Series I: Correspondence, 1920-1923   
-> 	Subseries A: 1920-1921   
-> 	Subseries B: 1922-1923   
+>     Subseries A: 1920-1921   
+>     Subseries B: 1922-1923   
 > Series II: Meeting Minutes, 1912-1950   
 > Series III: Photographs, 1910-1975   
-> 	Subseries A: Parker Family, 1910-1952   
-> 	Subseries B: Davis Family, 1950-1954*
+>     Subseries A: Parker Family, 1910-1952   
+>     Subseries B: Davis Family, 1950-1954*
 
 The Series and Subseries entered into ArchivesSpace require linebreaks in order to format properly for display on the Online Archive of California. *Example:*
 

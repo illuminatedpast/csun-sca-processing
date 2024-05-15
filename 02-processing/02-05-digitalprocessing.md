@@ -30,7 +30,6 @@ The following instructions are not intended for born-digital collections with co
 6. If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession.
 7. Additional physical media may be discovered later during processing. This is ok.
 8. Accession files as you would a physical collection.
-</ol>
 
 ### Processing
 

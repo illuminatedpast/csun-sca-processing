@@ -30,7 +30,7 @@ The following instructions are not intended for born-digital collections with co
 <li>And/or External vendor: 35mm/other film formats, large quantities of VHS/cassette tapes (for collections with funding)</li>
   </ol>
  
-<li>Note migration of Digital Files by Digital Services and/or External vendor by [adding an Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).</li>
+<li>Note migration of Digital Files by Digital Services and/or External vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).</li>
 <li>Transfer migrated files to the appropriate Unprocessed Accession folder on X.</li>
 <li>If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession. </li>
 <li>Additional physical media may be discovered later during processing. This is ok.</li>
@@ -64,8 +64,7 @@ Describe in the processing plan how detailed the description will be for digital
 - Open for Research
 - On Campus Use ONLY
 - Restricted until YYYY
-6.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions): 
- [image here]
+6.	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions).
 7.	When processing is complete:
 - Move any Preservation folders to Glacier (as of August/September 2023 hold on this and retain Preservation files on X)
 - Retain Access folder in the Digital Files on X

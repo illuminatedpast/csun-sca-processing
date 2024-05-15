@@ -19,22 +19,17 @@ The following instructions are not intended for born-digital collections with co
 4.	Accession files as you would a physical collection.
 
 #### Files need to be migrated off physical media:
- <ol>
-<li>Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: UnprocessedAccession2023-004*</li>
-<li>Capture any relevant data from the physical media (see: Procedures for Imaging Audio-Visual Materials document on H Policies and Procedures>Processing)</li>
-<li>Migrate digital files off physical media:</li>
-
-   <ol>
-<li>Archivist: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media when files are known, contain no viruses, and the overwrite risk is low. </li>
-<li>And/or Digital Services Librarian: Hard drives with PII and challenging file formats, virus or overwriting concerns, Zip drives, VHS tapes, cassette tapes, records, other selected A/V media, 8mm/16mm. For Digital Services Requests, complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) and submit a card on the [Digital Services Trello board](https://trello.com/b/bWq1CFak/migration-requests) (internal link). When Digital Services migrates data, they will capture container images and create Access and Preservation files.</li>
-<li>And/or External vendor: 35mm/other film formats, large quantities of VHS/cassette tapes (for collections with funding)</li>
-  </ol>
- 
-<li>Note migration of Digital Files by Digital Services and/or External vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).</li>
-<li>Transfer migrated files to the appropriate Unprocessed Accession folder on X.</li>
-<li>If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession. </li>
-<li>Additional physical media may be discovered later during processing. This is ok.</li>
-<li>Accession files as you would a physical collection.</li>
+1. Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: UnprocessedAccession2023-004*
+2. Capture any relevant data from the physical media.
+3. Migrate digital files off physical media:
+<p>*Archivist*: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media when files are known, contain no viruses, and the overwrite risk is low.</p>
+<p>*And/or Digital Services*: Hard drives with PII and challenging file formats, virus or overwriting concerns, Zip drives, VHS tapes, cassette tapes, records, other selected A/V media, 8mm/16mm. For Digital Services Requests, complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) and submit a card on the [Digital Services Trello board](https://trello.com/b/bWq1CFak/migration-requests) (internal link). When Digital Services migrates data, they will capture container images and create Access and Preservation files.</p>
+<p>*And/or External vendor*: 35mm/other film formats, large quantities of VHS/cassette tapes (for collections with funding) </p>
+4. Note migration of Digital Files by Digital Services and/or External vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).
+5. Transfer migrated files to the appropriate Unprocessed Accession folder on X.
+6. If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession.
+7. Additional physical media may be discovered later during processing. This is ok.
+8. Accession files as you would a physical collection.
 </ol>
 
 ### Processing

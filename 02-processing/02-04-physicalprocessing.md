@@ -33,16 +33,16 @@ When materials are separated during processing, the "Deaccession" section in the
 | -------- | ------- |
 | **Portion**    | Part |
 | **Description**    | A summary of materials and contents as detailed as the materials necessitate. *example: Digital Audio files: undated Monsignor William Barry personal dictations of correspondence.* |
-| **Reason**   | Why something was discarded *examples: crumbling, out of scope* |
+| **Reason**   | Why something was discarded. *examples: crumbling, out of scope* |
 | **Disposition**    | Where materials went. *examples: transferred to Friends of the Library, discarded* |
 | **Notification Given?**    |Notification is only given when this is requested by the donor as part of the Deed of Gift. |
 | **Date Label**    | Deaccession |
-| **Expression**    |Year Month Day *example: 2024 June 27* |
-| **Type**    |Single |
-| **Begin**    |YYYY-MM-DD *example: 2024-06-27* |
+| **Date Expression**    |Year Month Day format *example: 2024 June 27* |
+| **Date Type**    |Single |
+| **Date Begin**    |YYYY-MM-DD format *example: 2024-06-27* |
 | **Extent Portion**    |Whole |
-| **Number**    |Numerical representating |
-| **Type**    |Select linear feet for physical materails or the correct unit type for digital files. |
+| **Extent Number**    |Number representating |
+| **Extent Type**    |Select linear feet for physical materials or the correct unit type for digital files. |
 
 ### Preservation
 Special Collections and Archives performs basic preservation techniques in house, such as photocopying acidic originals or removing rusted fasteners. More complicated preservation needs may require vended services. All preservation decisions should be made with an eye to the collection as a whole, and in consultation between the processing archivist, SC/A Librarian, and other staff as necessary. Decisions regarding the migration of audiovisual materials should be made in consultation with Digital Services.

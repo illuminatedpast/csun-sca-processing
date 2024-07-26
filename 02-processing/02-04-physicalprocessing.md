@@ -27,21 +27,21 @@ Separations are materials that are peripheral or unimportant to an accession or 
 
 Publications are normally separated and cataloged for appropriate locations in the library, and are not considered part of the archival or manuscript collection. The catalogers in the library's Collection Access and Management Services Department create catalog records for Special Collections materials. Items are considered for this kind of separation when they have an author, title, publisher, publication date, and do not consist of photocopies. Separated publications are added to the backlog shelves in Stacks along with a flag indicating the accession number and name of the collection from which it originated.
 
-When materials are separated during processing, the "Deaccession" section in the ArchivesSpace Resource record must be completed. Duplicates do not need to be noted, unless there is an extensive number of duplicates. Fill out the information as follows:
+When materials are separated during processing, the "Deaccession" section in the ArchivesSpace Resource record must be completed. Duplicates do not need to be noted, unless there is an extensive number of duplicates. Multiple entries may be made for multiple separation actions as needed. Fill out the information as follows:
 
 | Field    | Instructions |
 | -------- | ------- |
-| **Portion**    | Part |
+| **Portion**    | Part (Whole is only used if you are Deaccessioning the entire collection) |
 | **Description**    | A summary of materials and contents as detailed as the materials necessitate. *example: Digital Audio files: undated Monsignor William Barry personal dictations of correspondence.* |
-| **Reason**   | Why something was discarded. *examples: crumbling, out of scope* |
-| **Disposition**    | Where materials went. *examples: transferred to Friends of the Library, discarded* |
+| **Reason**   | Why something was discarded. *examples: publications, crumbling, out of scope* |
+| **Disposition**    | Where materials went. *examples: transferred to SC/A book collection, discarded* |
 | **Notification Given?**    |Notification is only given when this is requested by the donor as part of the Deed of Gift. |
 | **Date Label**    | Deaccession |
 | **Date Expression**    |Year Month Day format *example: 2024 June 27* |
 | **Date Type**    |Single |
 | **Date Begin**    |YYYY-MM-DD format *example: 2024-06-27* |
 | **Extent Portion**    |Whole |
-| **Extent Number**    |Number representating |
+| **Extent Number**    |Number representing linear feet or MB/GB/TB. |
 | **Extent Type**    |Select linear feet for physical materials or the correct unit type for digital files. |
 
 ### Preservation

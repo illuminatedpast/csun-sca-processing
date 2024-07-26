@@ -25,6 +25,7 @@ Required fields are indicated by a bold field title.
 | External Documents | Enter in any external documents that are relevant here (e.g. a donor-created inventory that is saved in the physical case file or in the collection directory on the H drive) |
 | **Instances - Container Instance for a Physical Box** | Add an instance for each box. <br> The Type should be **"Accession"** and make sure to enter the **barcode** and a **location** |
 | **Instances - Digital Objects** | Add a single Digital Object instance to represent all digital files. Follow [instructions for creating Digital Objects in ASpace](https://mycsun.app.box.com/file/1296297597333), with the exception of entering both the Digital Object Title and Identifier as the title of the digital accessions folder (Example: <em>UnprocessedAccession_2019-015</em>) |
+| Deaccession | These fields are only used when a Separation is done during accessioning. For instructions on how to use these fields, see the “Weeding, Discards, and Separations” section on the [Processing page](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-04-physicalprocessing.html). |
 | **Collection Management** | Under "Processing Status" select "Unprocessed" if this is a new accession, or "In Processing" if you are currently processing this collection. <br> **Once an accession is processed, reopen the accession record and change the "processing status" field to "Processed"** |
 
 ---

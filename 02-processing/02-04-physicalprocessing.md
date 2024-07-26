@@ -32,7 +32,7 @@ When materials are separated during processing, the "Deaccession" section in the
 | Field    | Instructions |
 | -------- | ------- |
 | **Portion**    | Part |
-| **Description**    | A summary of materials and contents as detailed as the materials necessitate. (*example: Digital Audio files: undated Monsignor William Barry personal dictations of correspondence.*) |
+| **Description**    | A summary of materials and contents as detailed as the materials necessitate. *example: Digital Audio files: undated Monsignor William Barry personal dictations of correspondence.* |
 | **Reason**   | Why something was discarded *examples: crumbling, out of scope* |
 | **Disposition**    | Where materials went. *examples: transferred to Friends of the Library, discarded* |
 | **Notification Given?**    |Notification is only given when this is requested by the donor as part of the Deed of Gift. |

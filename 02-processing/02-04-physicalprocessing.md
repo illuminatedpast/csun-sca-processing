@@ -27,7 +27,7 @@ Separations are materials that are peripheral or unimportant to an accession or 
 
 Publications are normally separated and cataloged for appropriate locations in the library, and are not considered part of the archival or manuscript collection. The catalogers in the library's Collection Access and Management Services Department create catalog records for Special Collections materials. Items are considered for this kind of separation when they have an author, title, publisher, publication date, and do not consist of photocopies. Separated publications are added to the backlog shelves in Stacks along with a flag indicating the accession number and name of the collection from which it originated.
 
-When materials are separated during processing, the "Deaccessions" section in the ArchivesSpace Resource record must be completed. If materials are separated earlier during accession, the "Deaccessions" section in the ArchivesSpace Accession record must be completed. Duplicates do not need to be noted, unless there is an extensive number of duplicates. Multiple entries may be made for multiple separation actions as needed. Fill out the information as follows:
+When materials are separated during processing, the "Deaccessions" section in the ArchivesSpace Resource record must be completed. If materials are separated earlier during accessioning, the "Deaccessions" section in the ArchivesSpace Accession record must be completed. Duplicates do not need to be noted, unless there is an extensive number of duplicates. Multiple entries may be made for multiple separation actions as needed. Fill out the information as follows:
 
 | Field    | Instructions |
 | -------- | ------- |

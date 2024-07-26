@@ -27,7 +27,22 @@ Separations are materials that are peripheral or unimportant to an accession or 
 
 Publications are normally separated and cataloged for appropriate locations in the library, and are not considered part of the archival or manuscript collection. The catalogers in the library's Collection Access and Management Services Department create catalog records for Special Collections materials. Items are considered for this kind of separation when they have an author, title, publisher, publication date, and do not consist of photocopies. Separated publications are added to the backlog shelves in Stacks along with a flag indicating the accession number and name of the collection from which it originated.
 
-A [Separation Form](https://mycsun.box.com/s/s9vufj8r9pm76bsfz4aclsog8332fbxm) (internal link) must be completed for discards and separations and saved to the case file on H. Duplicates do not need to be noted on a separation form, unless there is an extensive number of duplicates.
+When materials are separated during processing, the "Deaccession" section in the ArchivesSpace Resource record must be completed. Duplicates do not need to be noted, unless there is an extensive number of duplicates. Fill out the information as follows:
+
+| Field    | Instructions |
+| -------- | ------- |
+| **Portion**    | Part |
+| **Description**    | A summary of materials and contents as detailed as the materials necessitate. (*example: Digital Audio files: undated Monsignor William Barry personal dictations of correspondence.*) |
+| **Reason**   | Why something was discarded *examples: crumbling, out of scope* |
+| **Disposition**    | Where materials went. *examples: transferred to Friends of the Library, discarded* |
+| **Notification Given?**    |Notification is only given when this is requested by the donor as part of the Deed of Gift. |
+| **Date Label**    | Deaccession |
+| **Expression**    |Year Month Day *example: 2024 June 27* |
+| **Type**    |Single |
+| **Begin**    |YYYY-MM-DD *example: 2024-06-27* |
+| **Extent Portion**    |Whole |
+| **Number**    |Numerical representating |
+| **Type**    |Select linear feet for physical materails or the correct unit type for digital files. |
 
 ### Preservation
 Special Collections and Archives performs basic preservation techniques in house, such as photocopying acidic originals or removing rusted fasteners. More complicated preservation needs may require vended services. All preservation decisions should be made with an eye to the collection as a whole, and in consultation between the processing archivist, SC/A Librarian, and other staff as necessary. Decisions regarding the migration of audiovisual materials should be made in consultation with Digital Services.

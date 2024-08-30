@@ -64,8 +64,7 @@ When processing is completed the processing archivist returns to the ArchivesSpa
 The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.com/s/5ka6md1pavzbqxfvohef5qymbprm8920) (internal link) document provides a starting point for Student Assistant processing work, but the guidelines should be adapted as needed for specific collections’ processing needs.
 
 ### Folder Template
-**re-do this graphic**
-![Folder example](docs/assets/Foldertemplate.png)
+![Folder example](docs/assets/folder_template.jpg)
 
 ### Flat File Folder Template
 ![Flat file folder example](docs/assets/FlatFileFolderExample.png)

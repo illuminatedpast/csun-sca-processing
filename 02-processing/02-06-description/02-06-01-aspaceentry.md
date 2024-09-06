@@ -17,7 +17,7 @@
 | Optional | Existence and Locations of Copies | Use to refer users to digital collections, etc. 
 | Unused | Existence and Locations of Originals | XXX | 
 | Unused | File Plan | XXX | 
-| Optional | General | This field should only be used in instances where needed information cannot be included in any other field, which happens very rarely. Consult with at least two other archivists before using this field.  | 
+| Optional | General | This field should only be used in instances where needed information cannot be included in any other field, which happens very rarely. Consult with at least two other archivists before using this field. [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html) for examples of when to consider using this field.  | 
 | Optional | Immediate Source of Acquisition | [See SC/A Processing Manual](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-06-description/02-06-description.html)  | 
 | Unused | Index | XXX | 
 | Required | Language of Material	| Choose the appropriate language from the drop-down menu. |

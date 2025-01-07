@@ -139,7 +139,13 @@ The Series and Subseries entered into ArchivesSpace require linebreaks in order 
 This field can be used to direct users to any digital surrogates that might be available in the library's digital collections or elsewhere. 
  
 #### Related Materials   
-This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest. If linking to a resource on OneSearch, make sure to use the permalink.
+This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest. If linking to a resource on OneSearch, make sure to use the permalink whenever possible. Previously we used the tag extref for links, but that tag has been depreciated in EAD3, so now use the tag ref. *Example:*
+
+```
+
+<ref href="https://oac.cdlib.org/findaid/ark:/13030/c8ks70h3/">Ludmilla A. Patrick Collection</ref>
+
+```
 
 #### General Note
 This is only used in very rare instances. One example is when funding for processing needs to be publicly acknowledged on the Online of Archive of California finding aid. The Sponsor field in ASpace will not display on the main OAC finding aid page, so if a public funding acknowledgment is required (example: a grant funded project), this information will need to be added to a General Note.

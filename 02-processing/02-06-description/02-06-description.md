@@ -139,7 +139,7 @@ The Series and Subseries entered into ArchivesSpace require linebreaks in order 
 This field can be used to direct users to any digital surrogates that might be available in the library's digital collections or elsewhere. 
  
 #### Related Materials   
-This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest. If linking to a resource on OneSearch, make sure to use the permalink whenever possible. Previously we used the tag extref for links, but that tag has been depreciated in EAD3, so now use the tag ref. *Example:*
+This section alerts the researcher to closely related materials within our collections and/or held at other institutions   if they are particularly closely related to the collection (for example, they share provenance). Avoid citing peripheral materials of only possible interest. If linking to a resource on OneSearch, make sure to use the permalink whenever possible. Previously we used the tag extref for links, but that tag has been depreciated in EAD3, so now use the tag ref. It is important to note, that as of 2/13/2025, using the proper ref tag with our current instance of ASpace will crash any PDFs you try to generate. If you need to generate a PDF for proofreading, remove the <ref> and then replace it after generating the PDF. *Example:*
 
 ```
 

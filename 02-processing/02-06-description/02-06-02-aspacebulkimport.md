@@ -17,6 +17,7 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 -	Highlight the folder title column only in order to perform spell check solely on the title text to avoid receiving spelling errors on the collection acronym, etc.
 -	Add a filter to row 4 to sort and quickly identify mistakes and outliers. E.g. checking the barcodes using a filter it is easy to see if one is missing a digit
 -	Do not enter in multiple folder numbers here. That is just for the physical folder. E.g. for physical folders with multiple folder numbers, e.g. “Meeting Minutes, 1990-1992 (1 of 4)", only include the titles and dates in the spreadsheet, and NOT (1 of 4)
+-	If there is a "graphic content" warning on the physical folder, do not add that to the ASpace folder title.
 -	Before importing the Excel for real, do a test load by checking the “Only validate” box when doing “Load Spreadsheet.” ASpace will run a background job and create a spreadsheet report that shows where the errors are (or things go great and there are no errors!). Download the spreadsheet to view the report outside of ASpace.
 
 

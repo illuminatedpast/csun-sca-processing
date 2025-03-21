@@ -64,7 +64,7 @@ When processing is completed the processing archivist returns to the ArchivesSpa
 The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.com/s/5ka6md1pavzbqxfvohef5qymbprm8920) (internal link) document provides a starting point for Student Assistant processing work, but the guidelines should be adapted as needed for specific collections’ processing needs.
 
 ### Folder Template
-*Note, at the discretion of the Processing Archivist, a [graphic materials] note may be added to the folder title. This will not be added to the container list folder title data entered in ASpace, but will alert a researcher in the reading room that they are about to encounter graphic materials.*
+*Note, at the discretion of the Processing Archivist, a "[graphic materials]" note may be added to the folder title, encased in brackets. This will not be added to the container list folder title data entered in ASpace, but will alert a researcher in the reading room that they are about to encounter graphic materials.*
 ![Folder example](docs/assets/folder_template.jpg)
 
 ### Flat File Folder Template

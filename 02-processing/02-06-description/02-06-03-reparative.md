@@ -8,7 +8,7 @@ Use Revision Statement (internal facing) and Processing Information (external fa
 
 ### Content Warnings
 
-Content warnings can be added to multiple parts of the finding aid, such as the scope and contents, front matter, and in the box and folder notes; as well as on physical folders.  If disclaimers are needed in a majority of folders in a box, it’s ok to forego adding notes to every folder in the finding aid in favor of a more general one that indicates the extent of challenging material in the collection.
+Content warnings may be added to multiple parts of the finding aid, such as the scope and contents??, folder level notes, as well as on physical folders. If disclaimers are needed in a majority of folders in a box, it’s ok to forego adding notes to every folder in the finding aid in favor of description in the collection-level scope and contents note, indicating the extent and location of challenging material in the collection.
 
 ### Recording Changes in the Finding Aid 
 

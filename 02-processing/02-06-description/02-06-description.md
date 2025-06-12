@@ -56,7 +56,7 @@ Drop-down menu should display the current status of the finding aid.
 ---
 
 ### Revision Statements   
-This is an internal-only note. Revision Date should be entered as year-only. Revision Description is free text. Include any internal-facing revision information that will be helpful for staff to know in the future. This information is supplemental to what is included in the public-facing Processing Information note.
+This is an internal-only note. Revision Date should be entered as year only. Revision Description is free text. Include any internal-facing revision information that will be helpful for staff to know in the future. This information is supplemental to what is included in the public-facing Processing Information note.
 
 ---
 

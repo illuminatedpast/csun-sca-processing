@@ -85,7 +85,7 @@ The terms, conditions, and length of any restrictions must be included in the fi
 Use the department’s copyright statement::\SpecialCollectionsArchives\Administrative\Copyright statements\CSUN Copyright Statements.docx  
 
 #### Processing Information *REQUIRED*   
-Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When additions are added, include the year the addition was made and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
+Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When additions are made, include the year processing was completed and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
 
 #### Accruals   
 Note here any additional anticipated donations, as appropriate. This field is primarily relevant for record groups that have record retention schedules.

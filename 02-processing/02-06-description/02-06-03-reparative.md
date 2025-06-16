@@ -1,6 +1,6 @@
 ## Reparative Description
 
-Intro text with link to Reparative Description Working Group Inclusive Description Guidelines (internal). 
+For guidance in the creation of inclusive description, see the Inclusive Description Guidelines document (internal link) created by the CSUN University Library Reparative Description Working Group.
 
 ### Recording Changes in the Finding Aid 
 

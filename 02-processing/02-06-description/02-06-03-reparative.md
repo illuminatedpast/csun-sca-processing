@@ -16,5 +16,9 @@ Content warnings may be added to multiple level of the finding aid, in a collect
 
 If disclaimers are needed in a majority of folders in a box, it’s ok to forego adding notes to every folder in the finding aid in favor of description in the collection-level scope and contents note, indicating the extent and location of challenging material in the collection.
 
+***
+
+[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+
 
 

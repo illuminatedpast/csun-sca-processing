@@ -14,7 +14,7 @@ Use Revision Statement (internal facing) and Processing Information (external fa
 
 Content warnings may be added to multiple level of the finding aid, in a collection-level or folder-level scope and contents note, as well as on physical folders. For instructions on labeling physical folders, see [Folder Template on the Physical Processing page](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-04-physicalprocessing.html).
 
-If disclaimers are needed in a majority of folders in a box, it’s ok to forego adding notes to every folder in the finding aid in favor of description in the collection-level scope and contents note, indicating the extent and location of challenging material in the collection.
+If disclaimers are needed in a majority of folders in a box, it’s ok to forego adding notes to every folder in the finding aid in favor of description in the collection-level scope and contents note. Make sure to indicate the extent and location of challenging material in the collection.
 
 ***
 

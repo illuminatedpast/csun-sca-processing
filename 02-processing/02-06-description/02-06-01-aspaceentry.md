@@ -24,6 +24,7 @@
 | Unused | Legal Status | XXX | 
 | Unused  | Materials Specific Details | XXX | 
 | Unused | Other Finding Aids | XXX | 
+| Optional | Physical Access | For collections with materials stored in cold storage. Use "General" note in ASpace and put "Physical Access" in the Label field. Note should read: "Materials in cold storage must be requested 24 hours in advance." | 
 | Unused | Physical Characteristics and Technical Requirements | XXX | 
 | Unused | Physical Description | XXX | 
 | Unused | Physical Facets | XXX | 

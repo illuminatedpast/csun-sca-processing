@@ -151,6 +151,8 @@ This section alerts the researcher to closely related materials within our colle
 #### General Note
 This is only used in very rare instances. One example is when funding for processing needs to be publicly acknowledged on the Online of Archive of California finding aid. The Sponsor field in ASpace will not display on the main OAC finding aid page, so if a public funding acknowledgment is required (example: a grant funded project), this information will need to be added to a General Note.
 
+ASpace does not have a "Physical Access" note field, so General Note is used instead, but with "Physical Access" in the Label field. This is only used for materials stored in cold storage that must be requested 24 hours in advance.
+
 ---
 
 ### Instances     

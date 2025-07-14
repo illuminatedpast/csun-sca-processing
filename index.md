@@ -17,3 +17,4 @@ This Accessioning and Processing Guide outlines our local practices. It is a sig
 - 2-6     [Description & Finding Aids]({{ site.baseurl }}/02-processing/02-06-description/02-06-description.html)
 - 2-6-1   [ArchivesSpace Finding Aids]({{ site.baseurl }}/02-processing/02-06-description/02-06-01-aspaceentry.html)
 - 2-6-2   [ArchivesSpace Bulk Imports]({{ site.baseurl }}/02-processing/02-06-description/02-06-02-aspacebulkimport.html)
+- 2-6-3   [Inclusive and Reparative Description]({{ site.baseurl }}/02-processing/02-06-description/02-06-03-reparative.html)

@@ -1,6 +1,6 @@
 ## Inclusive and Reparative Description
 
-For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) (internal link) created by the CSUN University Library Reparative Description Working Group.
+For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) created by the CSUN University Library Reparative Description Working Group.
 
 ### Recording Changes in the Finding Aid 
 

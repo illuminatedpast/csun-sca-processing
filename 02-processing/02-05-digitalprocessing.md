@@ -1,12 +1,6 @@
 ## Digital Processing
 
-The following instructions are not intended for born-digital collections with complex original order or large digital collections requiring more intensive preservation measures. These policies and procedures will be updated when we implement Preservica. This guide is intended primarily for processing small and simple digital collections such as:
-- Scan and return projects
-  - *Example: [Old China Hands digital-only photo collections](https://oac.cdlib.org/findaid/ark:/13030/c8sn0h46/)*
-- Artificially created collections
-  - *Examples: [COVID-19 Community Archives](https://oac.cdlib.org/findaid/ark:/13030/c8db8892/), Oral History Project Collections*
-- Physical collections with a small number of digital objects and/or simple digital objects in accessible file formats (often migrated from physical media – floppies, CDs, cassette tapes, etc.) that don’t have extensive digital original order
-  - *Examples: CDs, floppies, and USBs pulled from physical folders in primarily physical collections like [APACC](https://oac.cdlib.org/findaid/ark:/13030/c8jq17m2/) and [CRC5](https://oac.cdlib.org/findaid/ark:/13030/c85t3sm2/)*
+Digital processing follows the same principles as physical processing. We use Preservica to preserve and managed processed digital collection. Archival collections are arranged and described before they are ingested into Preservica.
 
 ---
 
@@ -14,17 +8,15 @@ The following instructions are not intended for born-digital collections with co
 
 #### Files are digital and not on physical media. No concern about file date/time stamps: 
 1.	Direct donor to a location on Box to upload files. Box will perform a virus check upon upload.     
-2.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: UnprocessedAccession2023-004*
+2.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within the folder add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
 3.	Transfer files from Box location to unprocessed accession folder on X.
 4.	Accession files as you would a physical collection.
 
 #### Files need to be migrated off physical media:
-- Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X *Example: UnprocessedAccession2023-004*
--  Capture any relevant data from the physical media.
--  Migrate digital files off physical media:
-*Archivist*: CDs, 3 ¼” floppies, USB drives, hard drives with straightforward files, and other simple physical media when files are known, contain no viruses, and the overwrite risk is low.
-*And/or Digital Services*: Hard drives with PII and challenging file formats, virus or overwriting concerns, Zip drives, VHS tapes, cassette tapes, records, other selected A/V media, 8mm/16mm. For Digital Services Requests, complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) and submit a card on the [Digital Services Trello board](https://trello.com/b/bWq1CFak/migration-requests) (internal link). When Digital Services migrates data, they will capture container images and create Access and Preservation files.
-*And/or External vendor*: 35mm/other film formats, large quantities of VHS/cassette tapes (for collections with funding)
+- If it doesn't already exist, create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within the folder add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
+-  Complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) for Digital Services.
+-  Create a card on Digital Services' [Migration Requests Trello Board](https://trello.com/b/bWq1CFak/migration-requests) (internal link) in the "Request" Column. When Digital Services migrates data, they will capture container images. Note that 35mm and other film formats, and large quantities of VHS/cassette tapes may require external vendors. Work with Head of Special Collections on a case by case basis to determine funding availability for external vendor needs.
+-  Place physical media on the Digital Services Request shelves in Stacks. Digital Services will contact the relevant archivist if they have questions and when the work is completed.
 - Note migration of Digital Files by Digital Services and/or External vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).
 -  Transfer migrated files to the appropriate Unprocessed Accession folder on X.
 - If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession.

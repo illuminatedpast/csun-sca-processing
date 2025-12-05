@@ -49,8 +49,8 @@ Describe in the processing plan how detailed the description will be for digital
 2. 	Preservica is unable to identify and redact PII. This should be done before ingesting files into Preservica. If files will be permanently redacted, delete the originals. If original files will eventually be opened, place in approriate restricted folder.
 3.  Preservica will create access copies and convert files to accessible and/or long-term preservation formats as needed.
 4.  Preservica will run checksums. No need to do this before ingest, or to ingest checksum files into Preservica.
-5. 	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see ASpace documentation for more detailed Digital Object data entry instructions).
-6. Ingest processed collection folder into Preservica. DO NOT migrate the "Weeds" folder into Preservica. [Preservica Ingest Instructions are located on Box](https://mycsun.box.com/s/xqk7v1hfkhs1jlaeeswa2vf7d13h2xbu).
+5. 	Enter folder titles into ASpace. For hybrid physical and digital collections, insert digital folders into the container list following the collection/series arrangement. For example, alphabetical by folder title (see [ASpace documentation for more detailed Digital Object data entry instructions](https://mycsun.box.com/s/y8ttgfl08qr3mk3g5wkbl3ypngeq9ekn) (internal link)).
+6. Ingest processed collection folder into Preservica. DO NOT migrate the "Weeds" folder into Preservica. [Preservica Ingest Instructions are located on Box](https://mycsun.box.com/s/xqk7v1hfkhs1jlaeeswa2vf7d13h2xbu) (internal link).
 7.	When Preservica ingest is complete, delete all collection folders from X. X is only a holding space for unprocessed collections and a workspace for arrangement and processing.
  
 ***

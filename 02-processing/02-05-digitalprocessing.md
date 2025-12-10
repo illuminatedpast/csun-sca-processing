@@ -12,6 +12,9 @@ Digital processing follows the same principles as physical processing. We use [P
 3.	Transfer files from Box location to unprocessed accession folder on X.
 4.	Accession files as you would a physical collection.
 
+#### Files are digital and not on physical media. Files are too large or date/time stamps:
+1.	Donor can mail or drop off digital files on an external hard drive or USB.
+
 #### Files need to be migrated off physical media:
 - If it doesn't already exist, create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within that folder, add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
 -  Complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) for Digital Services.

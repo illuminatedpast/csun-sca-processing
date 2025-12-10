@@ -12,7 +12,7 @@ Digital processing follows the same principles as physical processing. We use [P
 3.	Transfer files from Box location to unprocessed accession folder on X.
 4.	Accession files as you would a physical collection.
 
-#### Files are digital and not on physical media. Files are too large or date/time stamps:
+#### Files are digital and not on physical media. Files are too large and/or you want to retain the original date/time stamps:
 1.	Donor can mail or drop off digital files on an external hard drive or USB.
 2.	Follow process below to have Digital Services migrate your files off the physical media.
 

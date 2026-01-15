@@ -14,7 +14,7 @@ Required fields are indicated by a bold field title.
 | General Note | Add any additional information here. i.e. "An accrual of Digital Images is expected in the future", or “ |
 | **Acquisition Type** | Choose between "Gift", "Purchase", or "Transfer" |
 | **Resource Type** | Choose between "Collection", "Papers", "Publications", or "Records." Usually it is a "Collection." |
-| **Publish** | The "Publish" checkbox should NOT be selected. |
+| Publish | The "Publish" checkbox should NOT be selected. |
 | Access Restrictions | Enter if there are any |
 | Use Restrictions | Enter if there are any |
 | **Dates** | Enter Date(s) of Creation for the materials you are accessioning here using DACS Standards for an Inclusive Date, if you have it. |

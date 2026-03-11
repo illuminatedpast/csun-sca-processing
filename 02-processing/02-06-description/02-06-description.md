@@ -26,6 +26,9 @@ The range of creation dates for materials in the collection (not the life of the
 ### Extents *REQUIRED*
 This section includes the total linear footage for the collection, as well as the digital extent as applicable.
 
+For the "Container Summary" field, input the number of boxes and oversized (flat file) folders as appropriate.
+*Example: 48 boxes, 2 oversized folders*
+
 ---
 
 ### Finding Aid Data

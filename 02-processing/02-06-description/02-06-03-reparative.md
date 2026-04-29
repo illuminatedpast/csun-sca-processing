@@ -2,7 +2,7 @@
 
 For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) created by the CSUN University Library Reparative Description Working Group.
 
-When conducting reparative description work, make sure to save copies of any local guides created or referenced in the [Reparative Description folder on Box](https://mycsun.box.com/s/p8ee4r8xikfe5j9qkfd2vtzmwsqukaf4) (internal link) for future reference.
+When conducting reparative description work, make sure to save copies of any local guides created or referenced in the [Reparative Description folder on Box](https://mycsun.box.com/s/p8ee4r8xikfe5j9qkfd2vtzmwsqukaf4) (internal link) for future reference. You can include preferred terminology, a recommended content warning to add to the scope note, and/or the reparative revision note to include in the Processing Information note.
 
 ### Recording Changes in the Finding Aid 
 

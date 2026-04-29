@@ -2,13 +2,13 @@
 
 For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) created by the CSUN University Library Reparative Description Working Group.
 
-When conducting reparative description work, make sure to save copies of any local or external guides referenced in the [Reparative Description folder on Box](https://mycsun.box.com/s/p8ee4r8xikfe5j9qkfd2vtzmwsqukaf4) (internal link) for future reference.
+When conducting reparative description work, make sure to save copies of any local guides created or referenced in the [Reparative Description folder on Box](https://mycsun.box.com/s/p8ee4r8xikfe5j9qkfd2vtzmwsqukaf4) (internal link) for future reference.
 
 ### Recording Changes in the Finding Aid 
 
-Before a finding aid revision is added to the Online Archive of California, save a PDF of the unrevised finding aid to the collection’s digital case file. For the PDF filenaming conventions, use: CODE_Prior_ReparativeDescriptionRev. *Example: ESM_Prior_ReparativeDescriptionRev*
+Before a finding aid revision is undertaken, save a PDF of the unrevised finding aid to the collection’s digital case file. For the PDF filenaming conventions, use: CODE_Prior_ReparativeDescriptionRev. *Example: ESM_Prior_ReparativeDescriptionRev*
 
-Save a second PDF that includes the revised finding aid PDF, using the filenaming convention: CODE_Post_ReparativeDescriptionRev_YYYYMMDD. *Example: ESM_Post_ReparativeDescriptionRev_20260410*
+Once the reparative work is complete, save a second PDF that includes the revised finding aid PDF, using the filenaming convention: CODE_Post_ReparativeDescriptionRev_YYYYMMDD. *Example: ESM_Post_ReparativeDescriptionRev_20260410*
 
 If you are completing extensive revisions, record the changes by tracking changes in a Word file. Use the filenaming convention: CODE_ReparativeDescriptionReview_YYYY. *Example: ESM_ReparativeDescriptionReview_2026*
 

@@ -90,6 +90,8 @@ Use the department’s copyright statement::\SpecialCollectionsArchives\Administ
 #### Processing Information *REQUIRED*   
 Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When additions are made, include the year processing was completed and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
 
+*Example: "This finding aid was revised in 2026 to address outdated and harmful descriptive language. References to Japanese American "relocation," "evacuation," and "internment" during World War II were removed and replaced with community recommended/currently accepted terminology in 2026, such as "Japanese American incarceration."*
+
 #### Accruals   
 Note here any additional anticipated donations, as appropriate. This field is primarily relevant for record groups that have record retention schedules.
 

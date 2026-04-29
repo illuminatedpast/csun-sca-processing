@@ -61,6 +61,8 @@ Drop-down menu should display the current status of the finding aid.
 ### Revision Statements   
 This is an internal-only note. Revision Date should be entered as year only. Revision Description is free text. Include any internal-facing revision information that will be helpful for staff to know in the future. This information is supplemental to what is included in the public-facing Processing Information note.
 
+When recording reparative description work, make sure to include information about any specific guides referenced, who did the reparative work, and in what year the work occurred.
+
 ---
 
 ### Related Accessions   
@@ -88,7 +90,7 @@ The terms, conditions, and length of any restrictions must be included in the fi
 Use the department’s copyright statement::\SpecialCollectionsArchives\Administrative\Copyright statements\CSUN Copyright Statements.docx  
 
 #### Processing Information *REQUIRED*   
-Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When additions are made, include the year processing was completed and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
+Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When recording reparative description work, identify major changes made throughout the finding aid. When new additions are made, include the year processing was completed and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
 
 *Example: "This finding aid was revised in 2026 to address outdated and harmful descriptive language. References to Japanese American "relocation," "evacuation," and "internment" during World War II were removed and replaced with community recommended/currently accepted terminology in 2026, such as "Japanese American incarceration."*
 

@@ -4,7 +4,11 @@ For guidance in the creation of inclusive description, see the [CSUN Inclusive D
 
 ### Recording Changes in the Finding Aid 
 
-Before a finding aid revision is added to the Online Archive of California, save a PDF of the unrevised finding aid to the collection’s digital case file. 
+Before a finding aid revision is added to the Online Archive of California, save a PDF of the unrevised finding aid to the collection’s digital case file. For the PDF filenaming conventions, use: CODE_Prior_ReparativeDescriptionRev. *Example: ESM_Prior_ReparativeDescriptionRev*
+
+Save a second PDF that includes the revised finding aid PDF, using the filenaming convention: CODE_Post_ReparativeDescriptionRev_YYYYMMDD. *Example: ESM_Post_ReparativeDescriptionRev_20260410*
+
+If you are completing extensive revisions, record the changes by tracking changes in a Word file. Use the filenaming convention: CODE_ReparativeDescriptionReview_YYYY. *Example: ESM_ReparativeDescriptionReview_2026*
 
 ### Finding Aid Revision Fields
 

@@ -2,6 +2,8 @@
 
 For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) created by the CSUN University Library Reparative Description Working Group.
 
+When conducting reparative description work, make sure to save copies of any local or external guides referenced in the [Reparative Description folder on Box](https://mycsun.box.com/s/p8ee4r8xikfe5j9qkfd2vtzmwsqukaf4) (internal link) for future reference.
+
 ### Recording Changes in the Finding Aid 
 
 Before a finding aid revision is added to the Online Archive of California, save a PDF of the unrevised finding aid to the collection’s digital case file. For the PDF filenaming conventions, use: CODE_Prior_ReparativeDescriptionRev. *Example: ESM_Prior_ReparativeDescriptionRev*

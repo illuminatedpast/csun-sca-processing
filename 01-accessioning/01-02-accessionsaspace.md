@@ -11,7 +11,7 @@ Required fields are indicated by a bold field title.
 | **Condition Description** | Describe the physical condition of the materials including the following: <br> **Arrangement**: What is the current organizational scheme of materials in the accession? <br> **Description**: What is the level of description for these materials upon their arrival? <br> **Physical condition**: What physical condition are these materials in? |
 | **Inventory** | A brief description of the contents of each box, including any information that is readily available or that the donor provided. Do not spend time searching for dates on individual documents to provide a date range. Include one if the donor supplied it only. Also include the type of box. Eg. Box 1, Record Carton, 1999-2009, Administrative papers and photographs. |
 | **Provenance** | Use this field to indicate who the donor is and any other chain of custody information. |
-| General Note | Add any additional information here. i.e. "An accrual of Digital Images is expected in the future", or “ |
+| General Note | Add any additional information here. i.e. "An accrual of Digital Images is expected in the future." Can also use this note to indicate accessions that may be particularly good processing projects for interns.|
 | **Acquisition Type** | Choose between "Gift", "Purchase", or "Transfer" |
 | **Resource Type** | Choose between "Collection", "Papers", "Publications", or "Records." Usually it is a "Collection." |
 | Publish | The "Publish" checkbox should NOT be selected. |

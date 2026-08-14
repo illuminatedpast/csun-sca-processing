@@ -8,7 +8,7 @@ This Accessioning and Processing Guide outlines our local practices. It is a sig
 - 1-1     [Accessioning Archival Collections]({{ site.baseurl }}/01-accessioning/01-01-accessionrecords.html)
 - 1-2     [ArchivesSpace Accession Records]({{ site.baseurl }}/01-accessioning/01-02-accessionsaspace.html)  
 
-## [Part 2: Processing Collections]({{ site.baseurl }}/02-processing.html/)
+## [Part 2: Processing Collections](02-processing/02-processing.md)
 - 2-1     [Processing Overview]({{ site.baseurl }}/02-processing/02-01-processingoverview.html)
 - 2-2     [Processing Plans]({{ site.baseurl }}/02-processing/02-02-processingplan.html)
 - 2-3     [Arrangement]({{ site.baseurl }}/02-processing/02-03-arrangement.html)

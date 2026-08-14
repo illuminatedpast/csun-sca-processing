@@ -28,6 +28,10 @@ hr {
 }
 
 .breadcrumbs {
+  position: static;
   font-size: 1rem;
   margin-bottom: 1.5rem;
+  text-align: left;
+  margin-inline-start: 0;
+  width: auto;
 }

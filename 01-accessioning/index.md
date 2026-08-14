@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My Subpage
 ---
 
 {% include breadcrumbs.html %}

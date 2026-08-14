@@ -18,12 +18,12 @@ body {
 }
 
 .breadcrumb {
-/*  float:left; */
+  float:left;
   padding-top:2px;
   padding-left:0px;
   padding-bottom:2px;
   list-style-type: none;
-/*  border-radius: 4px; */
+  border-radius: 4px;
 }
 .breadcrumb > li {
   display: inline-block;
@@ -34,12 +34,10 @@ body {
 
 .breadcrumb { border: 0px;  display: block;}
 .breadcrumb li {font-size: 12px;}
-/*
 .breadcrumb a {color: $brand-color;}
 .breadcrumb a:hover {color: darken($brand-color, 20%);}
 .breadcrumb>.active a {color: #555555; }
 .breadcrumb>li+li:before {color:$brand-color; content: "\003E\00a0";}
-*/
 
 .pagedata {
 /*  float:left; */

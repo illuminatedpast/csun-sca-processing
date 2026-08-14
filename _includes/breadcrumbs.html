@@ -3,7 +3,8 @@
   {% assign crumbs = page.url | split: '/' %}
   {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
-      / <span>{{ page.title | default: crumb }}</span>
+      <!-- It checks for breadcrumb_title first, then title, then the URL slug -->
+      / <span>{{ page.breadcrumb_title | default: page.title | default: crumb }}</span>
     {% else %}
       / <a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for nc in crumbs limit: crumb_limit %}{{ nc }}/{% endfor %}">{{ crumb | replace: '-', ' ' | capitalize }}</a>
     {% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Subpage
+title: CSUN Processing Manual
 ---
 
 {% include breadcrumbs.html %}

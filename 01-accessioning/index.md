@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSUN Processing Manual
-breadcrumb_title: Part 1 - Acessioning Collections
+breadcrumb_title: "Part 1: Acessioning Collections"
 ---
 
 {% include breadcrumbs.html %}

@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Place your custom styles below this line */
+
+body {
+  background-color: #f7f9fa; /* Example override */
+}
+
+.breadcrumbs {
+  font-size: 14px;
+  margin-bottom: 20px;
+}

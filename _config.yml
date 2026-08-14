@@ -1,6 +1,7 @@
 # Site settings
 
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
 
 title: CSUN Processing Manual
 short_title: CSUN Processing Manual

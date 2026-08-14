@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% include breadcrumbs.html %}
 
 # CSUN SC/A Processing Guide

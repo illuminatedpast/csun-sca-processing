@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Processing Plans"
+---
+
 ## Processing Plans
 
 After a collection has been selected for processing, background materials from department case files are gathered, preliminary historical research is performed, the collection is surveyed, and a [processing plan](https://mycsun.box.com/s/rf7ezqdz2c7o7i81fqilv5v0x0nt6k6w) (internal link) is prepared. The processing archivist updates any associated ArchivesSpace Accession records to "In Processing" status (located under Accession>Collection Management>Processing Status). During this planning stage, the archivist consults with other staff members as needed, especially the SC/A Librarian who approves all processing plans. 

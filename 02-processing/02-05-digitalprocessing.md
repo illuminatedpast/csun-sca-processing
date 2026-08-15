@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Digital Processing"
+---
+
 ## Digital Processing
 
 Digital processing follows the same principles as physical processing. We use [Preservica](https://us.preservica.com/auth/login/?redirect=/sdb/dashboard.html) to preserve and steward processed digital collections. Unprocessed digital collections are stored on the X drive until processing. Archival collections are arranged and described on the X drive before they are ingested into Preservica. Consider Preservica the final step of processing, equivalent to placing a physical box on a physical shelf.

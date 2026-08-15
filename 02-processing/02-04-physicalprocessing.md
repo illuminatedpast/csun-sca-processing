@@ -1,3 +1,10 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Physical Processing"
+---
+
+
 ## Physical Processing
 
 ### Non-Textual Records in Collections

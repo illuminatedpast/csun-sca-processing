@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Arrangement"
+---
+
 ## Arrangement
 
 Arrangement of collections includes all physical and intellectual actions made in a collection from its time of accessioning.

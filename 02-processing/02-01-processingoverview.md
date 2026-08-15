@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Processing Overview"
+---
+
 ## Processing Overview
 
 This guide outlines the manner in which basic archival principles are applied in Special Collections and Archives at California State University, Northridge. It assumes that its users have an understanding of contemporary archival principles and practices, and should be applied to processing work completed in all Special Collections and Archives areas, including Special Collections, the Urban Archives, International Guitar Research Archives, Old China Hands Archives, Tom & Ethel Bradley Center Collections, and University Archives.

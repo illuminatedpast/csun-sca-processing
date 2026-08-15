@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Accessioning Archival Collections"
+---
+
 ## Accessioning Archival Collections
 Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use [Basecamp](https://3.basecamp.com/5794020/buckets/37360962/card_tables/7354748593) (internal link) to track the progression of a collection through the accessioning process. A high-level accessioning workflow overview is located on [Box here](https://mycsun.box.com/s/o6dkzyb6u0ce3e8ae9n2x5injecd2djb) (internal link). Instructions on how to handle digital materials in accessions are located in this guide [at this link](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-05-digitalprocessing.html).
 

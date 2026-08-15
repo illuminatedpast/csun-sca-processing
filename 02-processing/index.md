@@ -10,7 +10,7 @@ breadcrumb_title: "Part 2: Processing Collections"
 - 2-3 [Arrangement](02-03-arrangement.md)
 - 2-4 [Physical Processing](02-04-physicalprocessing.md)
 - 2-5 [Digital Processing](02-05-digitalprocessing.md)
-- 2-6 [Description & Finding Aids](02-06-description/02-06-description.md)
+- 2-6 [Description & Finding Aids](02-06-description)
   - 2-6-1 [ArchivesSpace Finding Aids](02-06-description/02-06-01-aspaceentry.md)
   - 2-6-2 [ArchivesSpace Bulk Imports](02-06-description/02-06-02-aspacebulkimport.md)
   - 2-6-3 [Inclusive and Reparative Description](02-06-description/02-06-03-reparative.md)

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CSUN Processing Manual
+breadcrumb_title: "Description & Finding Aids"
 ---
 
 ## Description & Finding Aids

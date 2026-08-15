@@ -1,5 +1,7 @@
 ---
 layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Part 2: Processing Collections"
 ---
 
 # CSUN SC/A Processing Guide

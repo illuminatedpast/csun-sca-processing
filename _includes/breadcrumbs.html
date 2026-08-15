@@ -9,8 +9,10 @@
     <!-- 2. Set custom titles for specific folder names here -->
     {% if current_crumb == '01-accessioning' %}
       {% assign display_title = 'Part 1: Accessioning Collections' %}
-    {% elsif current_crumb == 'sca' %}
-      {% assign display_title = 'Special Collections' %}
+    {% elsif current_crumb == '02-processing' %}
+      {% assign display_title = 'Part 2: Processing Collections' %}
+    {% elsif current_crumb == '02-06-description' %}
+      {% assign display_title = 'Description & Finding Aids' %}
     {% else %}
       <!-- Fallback: Capitalizes the folder name if no match is found -->
       {% assign display_title = crumb | replace: '-', ' ' | capitalize %}

@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "Inclusive and Reparative Description"
+---
+
 ## Inclusive and Reparative Description
 
 For guidance in the creation of inclusive description, see the [CSUN Inclusive Description Guidelines](https://nlshibata.github.io/csun-inclusive-description/) created by the CSUN University Library Reparative Description Working Group.

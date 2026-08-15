@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "ArchivesSpace Finding Aids"
+---
+
 ## Entering Finding Aid Data into ArchivesSpace
 
 ### Entering Finding Aid Front Matter Quick Reference Table

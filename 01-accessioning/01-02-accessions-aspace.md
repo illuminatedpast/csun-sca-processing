@@ -1,3 +1,9 @@
+---
+layout: default
+title: CSUN Processing Manual
+breadcrumb_title: "ArchivesSpace Accession Records"
+---
+
 ## Adding Accession Records to ArchivesSpace
 
 Required fields are indicated by a bold field title. 

@@ -5,7 +5,7 @@ breadcrumb_title: "Part 2: Processing Collections"
 ---
 
 # Part 2: Processing Collections
-- 2-1 [Processing Overview](02-01-processin-goverview.md)
+- 2-1 [Processing Overview](02-01-processing-overview.md)
 - 2-2 [Processing Plans](02-02-processing-plan.md)
 - 2-3 [Arrangement](02-03-arrangement.md)
 - 2-4 [Physical Processing](02-04-physical-processing.md)

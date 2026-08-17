@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSUN Processing Manual
+title: CSUN SC/A Processing Guide
 breadcrumb_title: "ArchivesSpace Finding Aids"
 ---
 

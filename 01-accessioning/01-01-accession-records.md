@@ -14,6 +14,7 @@ After completing appraisal, the archivist who accepts physical custody of the ac
 Unless they have already been checked for issues, new donations are accessioned in the Special Collections and Archives workroom to prevent potential exposure of our existing holdings to mold, pests, or other conservation problems.
 
 ---
+
 ### Physical Materials
 
 - All incoming materials are carefully inspected for insects, mold, and other potential preservation problems. 

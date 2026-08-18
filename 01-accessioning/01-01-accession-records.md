@@ -26,6 +26,8 @@ Unless they have already been checked for issues, new donations are accessioned 
   - Materials should be re-foldered on an as-needed basis only, and only to address immediate preservation concerns.
   - It is extremely important that the original order of the collection is maintained as much as possible during this process.
 
+- An ["Unprocessed Accession" label](https://mycsun.box.com/s/cy19yoz1gzdhjzhychc7824varcsz92p) (internal link) should be affixed to each physical box.  The "Unprocessed Accession" label includes the name of the collection, name of the donor, date of the addition, the name of the accessioning archivist, a brief description of contents, and the accession number.
+
 ### Digital Materials
 
 #### Files are digital and not on physical media. No concern about file date/time stamps: 
@@ -50,6 +52,8 @@ Unless they have already been checked for issues, new donations are accessioned 
 -  Additional physical media may be discovered later during processing. This is ok.
 -  Accession files as you would a physical collection.
 
+---
+
 - The accessioning archivist creates a collection Basecamp card if one does not already exist (see card template on Basecamp board).
 
 - The accessioning archivist creates an Accession record on ASpace that includes:
@@ -65,13 +69,13 @@ Unless they have already been checked for issues, new donations are accessioned 
   - The extent of the collection and number of boxes after accessioning is completed.
   - The shelf location of boxes after accessioning.
 
-- An ["Unprocessed Accession" sign](https://mycsun.box.com/s/cy19yoz1gzdhjzhychc7824varcsz92p) (internal link) should be affixed to each box.  The "Unprocessed Accession" sign includes the name of the collection, name of the donor, date of the addition, the name of the accessioning archivist, a brief description of contents, and the accession number.
+---
 
 - Sometimes new accessions contain materials that obviously should not be kept with the archival records.  (For example, a faculty member's personal papers may arrive with 10 boxes of books from the shelves in their office.)  When this is the case, the accessioner may immediately separate materials that are better handled separately from the manuscript or archival materials. The accessioner must record this action by completing the Deaccession fields in the ArchivesSpace Accession record. See the "Weeding, Discards, and Separations" section on the [Processing page](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-04-physicalprocessing.html) for additional instructions.
 
 - The accessioning archivist creates a digital and a physical Case File, which combined with ASpace, will include documentation of actions undertaken by archivists with regards to a particular accession.  This includes Separation Records, donor-provided inventories, and any other relevant paperwork.  Additional documentation generated during processing, digitization, or other activities will be stored in these files in the future.
 
-- Next the accessioning archivist places the collection boxes in AS/RS or on shelves, and adds the extent and box locations to ArchivesSpace. To load new boxes into AS/RS, the Archivist fills out the [AS/RS Load Inventory Form](https://mycsun.box.com/s/uf8c3kgcq7hpd5hn73us3weqy6siq3nf) (internal link) and sends the AS/RS Lead an e-mail to let them know that a new Non-LC (NLC) Load is coming down for storage. Once the boxes are loaded, the AS/RS Lead sends back the completed Load form, including the AS/RS bin number. The Archivist saves the completed AS/RS Load Inventory Form to the Collection folder on H.
+- Next the accessioning archivist places the physical collection boxes in AS/RS or on shelves, and adds the extent and box locations to ArchivesSpace. To load new boxes into AS/RS, the Archivist fills out the [AS/RS Load Inventory Form](https://mycsun.box.com/s/uf8c3kgcq7hpd5hn73us3weqy6siq3nf) (internal link) and sends the AS/RS Lead an e-mail to let them know that a new Non-LC (NLC) Load is coming down for storage. Once the boxes are loaded, the AS/RS Lead sends back the completed Load form, including the AS/RS bin number. The Archivist saves the completed AS/RS Load Inventory Form to the Collection folder on H.
 
 ***
 

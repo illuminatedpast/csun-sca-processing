@@ -5,7 +5,7 @@ breadcrumb_title: "Accessioning Archival Collections"
 ---
 
 ## Accessioning Archival Collections
-Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use [Basecamp](https://3.basecamp.com/5794020/buckets/37360962/card_tables/7354748593) (internal link) to track the progression of a collection through the accessioning process. A high-level accessioning workflow overview is located on [Box here](https://mycsun.box.com/s/o6dkzyb6u0ce3e8ae9n2x5injecd2djb) (internal link). Instructions on how to handle digital materials in accessions are located in this guide [at this link](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-05-digital-processing.html).
+Upon arrival in Special Collections and Archives, all donations are accessioned into our existing holdings. We use [Basecamp](https://3.basecamp.com/5794020/buckets/37360962/card_tables/7354748593) (internal link) to track the progression of a collection through the accessioning process. A high-level accessioning workflow overview is located on [Box here](https://mycsun.box.com/s/o6dkzyb6u0ce3e8ae9n2x5injecd2djb) (internal link).
 
 ---
 
@@ -14,6 +14,7 @@ After completing appraisal, the archivist who accepts physical custody of the ac
 Unless they have already been checked for issues, new donations are accessioned in the Special Collections and Archives workroom to prevent potential exposure of our existing holdings to mold, pests, or other conservation problems.
 
 ---
+### Physical Materials
 
 - All incoming materials are carefully inspected for insects, mold, and other potential preservation problems. 
   - Gloves and masks may be required during this inspection. 
@@ -24,6 +25,30 @@ Unless they have already been checked for issues, new donations are accessioned 
   - In most cases, re-housing should be managed by an archivist.  Materials should not be placed in storage areas without proper housing (or without housing of any kind).
   - Materials should be re-foldered on an as-needed basis only, and only to address immediate preservation concerns.
   - It is extremely important that the original order of the collection is maintained as much as possible during this process.
+
+### Digital Materials
+
+#### Files are digital and not on physical media. No concern about file date/time stamps: 
+1.	Direct donor to a location on Box to upload files. Box will perform a virus check upon upload.     
+2.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within that folder, add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
+3.	Transfer files from Box location to unprocessed accession folder on X.
+4.	Accession files as you would a physical collection.
+
+#### Files are digital and not on physical media. Files are too large and/or you want to retain the original date/time stamps:
+1.	Donor can mail or drop off digital files on an external hard drive or USB.
+2.	Follow process below to have Digital Services migrate your files off the physical media.
+
+#### Files need to be migrated off physical media:
+- If it doesn't already exist, create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within that folder, add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
+-  Complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) for Digital Services.
+-  Create a card on Digital Services' [Migration Requests Trello Board](https://trello.com/b/bWq1CFak/migration-requests) (internal link) in the "Request" Column. When Digital Services migrates data, they will capture container images. Note that 35mm and other film formats, and large quantities of VHS/cassette tapes may require external vendors. Work with Head of Special Collections on a case by case basis to determine funding availability for external vendor needs. If no funding available, process physical media into archival collection. Make note in finding aid about access restrictions.
+-  Note that disk images for DVD files do not display on Preservica. If your DVD has accessible video, it is preferred the video files are transferred, 
+-  Place physical media on the Digital Services Request shelves in Stacks. Digital Services will contact the relevant archivist if they have questions and will send notification when the work is completed.
+-  Digital Services will transfer migrated files to the appropriate unprocessed accession folder on X and return the physical media carriers to the Digital Services Request shelves in Stacks.
+- Note migration of Digital Files by Digital Services and/or external vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).
+- If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession.
+-  Additional physical media may be discovered later during processing. This is ok.
+-  Accession files as you would a physical collection.
 
 - The accessioning archivist creates a collection Basecamp card if one does not already exist (see card template on Basecamp board).
 

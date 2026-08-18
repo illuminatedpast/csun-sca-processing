@@ -8,35 +8,9 @@ breadcrumb_title: "Digital Processing"
 
 Digital processing follows the same principles as physical processing. We use [Preservica](https://us.preservica.com/auth/login/?redirect=/sdb/dashboard.html) to preserve and steward processed digital collections. Unprocessed digital collections are stored on the X drive until processing. Archival collections are arranged and described on the X drive before they are ingested into Preservica. Consider Preservica the final step of processing, equivalent to placing a physical box on a physical shelf.
 
----
-
-### Accessioning
-
-#### Files are digital and not on physical media. No concern about file date/time stamps: 
-1.	Direct donor to a location on Box to upload files. Box will perform a virus check upon upload.     
-2.	Create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within that folder, add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
-3.	Transfer files from Box location to unprocessed accession folder on X.
-4.	Accession files as you would a physical collection.
-
-#### Files are digital and not on physical media. Files are too large and/or you want to retain the original date/time stamps:
-1.	Donor can mail or drop off digital files on an external hard drive or USB.
-2.	Follow process below to have Digital Services migrate your files off the physical media.
-
-#### Files need to be migrated off physical media:
-- If it doesn't already exist, create an unprocessed accession folder with the accession number in the appropriate Collection Folder on X. *Example: APACC_Unprocessed* and within that folder, add an accession folder, *Example: APACC_UnprocessedAccession_2023-002*.
--  Complete the [Digitization Request Spreadsheet](https://mycsun.box.com/s/v729j6sw39sv8050j9f15ayo0bivimdh) (internal link) for Digital Services.
--  Create a card on Digital Services' [Migration Requests Trello Board](https://trello.com/b/bWq1CFak/migration-requests) (internal link) in the "Request" Column. When Digital Services migrates data, they will capture container images. Note that 35mm and other film formats, and large quantities of VHS/cassette tapes may require external vendors. Work with Head of Special Collections on a case by case basis to determine funding availability for external vendor needs. If no funding available, process physical media into archival collection. Make note in finding aid about access restrictions.
--  Note that disk images for DVD files do not display on Preservica. If your DVD has accessible video, it is preferred the video files are transferred, 
--  Place physical media on the Digital Services Request shelves in Stacks. Digital Services will contact the relevant archivist if they have questions and will send notification when the work is completed.
--  Digital Services will transfer migrated files to the appropriate unprocessed accession folder on X and return the physical media carriers to the Digital Services Request shelves in Stacks.
-- Note migration of Digital Files by Digital Services and/or external vendor by adding an [Event to ArchivesSpace](https://mycsun.box.com/s/tzfqve0l4fztvsbbwz3uqbma0uc9ync2) (internal link).
-- If transfer of files is successful, dispose of physical media. If there are concerns, retain physical media in the accession.
--  Additional physical media may be discovered later during processing. This is ok.
--  Accession files as you would a physical collection.
-
-### Processing
-
 The same basic processing principles apply to digital documents as if you were processing a physical collection.
+
+---
 
 #### Processing Plan:
 Describe in the processing plan how detailed the description will be for digital files. Will you describe all the digital files in a single Digital Object? Will the digital files need to be arranged in digital folders? Are there PII or restriction concerns that will impact processing needs?

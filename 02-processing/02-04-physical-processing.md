@@ -79,6 +79,6 @@ The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.c
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](/)
+[Back to the CSUN SC/A Processing Guide Start Page](../)
 
 

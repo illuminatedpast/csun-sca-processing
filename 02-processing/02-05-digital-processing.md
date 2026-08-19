@@ -39,6 +39,6 @@ Describe in the processing plan how detailed the description will be for digital
  
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](/)
+[Back to the CSUN SC/A Processing Guide Start Page](../)
 
 

@@ -46,4 +46,4 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](/)
+[Back to the CSUN SC/A Processing Guide Start Page](../../)

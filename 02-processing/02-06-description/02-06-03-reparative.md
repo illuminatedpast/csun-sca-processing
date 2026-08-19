@@ -30,7 +30,7 @@ If disclaimers are needed in a majority of folders in a box, it's ok to forego a
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](./)
+[Back to the CSUN SC/A Processing Guide Start Page](../../)
 
 
 

@@ -65,14 +65,14 @@ Unless they have already been checked for issues, new donations are accessioned 
   - The temporary or draft name of the collection. 
   - The name of the donor or office of transfer.
   - The arrival date of the collection (from the Deed of Gift).
-  - A brief abstract about the accession’s creator
-  - A brief preliminary inventory of the accession’s contents. The level of inventory detail is at the accessioner's discretion. If box-level description is sufficient there's no need to inventory at the folder level. When donors provide inventories, they can be referenced in ASpace and included in the Collection file on H after being evaluated for accuracy. Inaccurate inventories can be filed in the case file separate from the Accession Record.
+  - A brief abstract about the accession's creator
+  - A brief preliminary inventory of the accession's contents. The level of inventory detail is at the accessioner's discretion. If box-level description is sufficient there's no need to inventory at the folder level. When donors provide inventories, they can be referenced in ASpace and included in the Collection file on H after being evaluated for accuracy. Inaccurate inventories can be filed in the case file separate from the Accession Record.
   - The extent of the collection and number of boxes after accessioning is completed.
   - The shelf location of boxes after accessioning.
 
 ---
 
-- Sometimes new accessions contain materials that obviously should not be kept with the archival records.  (For example, a faculty member's personal papers may arrive with 10 boxes of books from the shelves in their office.)  When this is the case, the accessioner may immediately separate materials that are better handled separately from the manuscript or archival materials. The accessioner must record this action by completing the Deaccession fields in the ArchivesSpace Accession record. See the "Weeding, Discards, and Separations" section on the [Processing page](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-04-physicalprocessing.html) for additional instructions.
+- Sometimes new accessions contain materials that obviously should not be kept with the archival records.  (For example, a faculty member's personal papers may arrive with 10 boxes of books from the shelves in their office.)  When this is the case, the accessioner may immediately separate materials that are better handled separately from the manuscript or archival materials. The accessioner must record this action by completing the Deaccession fields in the ArchivesSpace Accession record. See the "Weeding, Discards, and Separations" section on the [Processing page](https://illuminatedpast.github.io/csun-sca-processing/02-processing/02-04-physical-processing.md) for additional instructions.
 
 - The accessioning archivist creates a digital and a physical Case File, which combined with ASpace, will include documentation of actions undertaken by archivists with regards to a particular accession.  This includes Separation Records, donor-provided inventories, and any other relevant paperwork.  Additional documentation generated during processing, digitization, or other activities will be stored in these files in the future.
 
@@ -80,4 +80,4 @@ Unless they have already been checked for issues, new donations are accessioned 
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)

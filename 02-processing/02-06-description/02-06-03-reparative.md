@@ -20,17 +20,17 @@ If you are completing extensive revisions, record the changes by tracking change
 
 ### Finding Aid Revision Fields
 
-Use Revision Statement (internal facing) and Processing Information (external facing) to note reparative description work. See [Description & Finding Aids page](../) for more details on what to include. These notes are generally applied at the Collection level only.
+Use Revision Statement (internal facing) and Processing Information (external facing) to note reparative description work. See [Description & Finding Aids page](../02-06-description/) for more details on what to include. These notes are generally applied at the Collection level only.
 
 ### Content Warnings
 
-Content warnings may be added to multiple levels of the finding aid, in a collection-level or folder-level scope and contents note, as well as on physical folders. For instructions on labeling physical folders, see [Folder Template on the Physical Processing page](../02-04-physicalprocessing.md).
+Content warnings may be added to multiple levels of the finding aid, in a collection-level or folder-level scope and contents note, as well as on physical folders. For instructions on labeling physical folders, see [Folder Template on the Physical Processing page](../02-04-physical-processing.md).
 
 If disclaimers are needed in a majority of folders in a box, it's ok to forego adding notes to every folder in the finding aid in favor of description in the collection-level scope and contents note. Make sure to indicate the extent and location of challenging material in the collection.
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](/)
+[Back to the CSUN SC/A Processing Guide Start Page](./)
 
 
 

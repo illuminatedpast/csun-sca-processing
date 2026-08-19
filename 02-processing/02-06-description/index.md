@@ -128,7 +128,7 @@ Each series should receive at least one paragraph of description, with the serie
 #### Arrangement  of Materials   
 This section is used when collections contain Series. It should include a simple outline of the collection's organization, showing major series and all subseries, with dates.
 
-> **Example:*   
+> *Example:*   
 > * *Series I: Correspondence, 1920-1923*
 >   * *Subseries A: 1920-1921*
 >   * *Subseries B: 1922-1923*

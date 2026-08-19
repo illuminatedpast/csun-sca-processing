@@ -128,24 +128,23 @@ Each series should receive at least one paragraph of description, with the serie
 #### Arrangement  of Materials   
 This section is used when collections contain Series. It should include a simple outline of the collection's organization, showing major series and all subseries, with dates.
 
-> *Example:   
-> Series I: Correspondence, 1920-1923   
->     Subseries A: 1920-1921   
->     Subseries B: 1922-1923   
-> Series II: Meeting Minutes, 1912-1950   
-> Series III: Photographs, 1910-1975   
->     Subseries A: Parker Family, 1910-1952   
->     Subseries B: Davis Family, 1950-1954*
+> **Example:*   
+> * *Series I: Correspondence, 1920-1923*
+>   * *Subseries A: 1920-1921*
+>   * *Subseries B: 1922-1923*
+> * *Series II: Meeting Minutes, 1912-1950*
+> * *Series III: Photographs, 1910-1975*
+>   * *Subseries A: Parker Family, 1910-1952*
+>   * *Subseries B: Davis Family, 1950-1954*
 
-The Series and Subseries entered into ArchivesSpace require linebreaks in order to format properly for display on the Online Archive of California.To indent a Subseries, place 4 spaces in front of the Subseries title's <p>. *Example:*
+The Series and Subseries entered into ArchivesSpace require linebreaks in order to format properly for display on the Online Archive of California. To indent a Subseries, place 4 spaces in front of the Subseries title's <p>. *Example:*
 
-```
+```html
 
 <p>Series I: Business, Social, Religious, and Educational Groups, 1951-1989</p>
 <p>Series II: Events and Places, 1952-1988</p>
 <p>Series III: People, 1955-1989</p>
 <p>Series IV: Products, Non-Human Subjects, and Working Papers and Tests, 1950-1978</p>
-
 
 ```
 
@@ -157,7 +156,7 @@ This section alerts the researcher to closely related materials within our colle
 
 Previously we used the tag extref for links, but that tag has been depreciated in EAD3, so now use the tag ref. It is important to note, that as of 2/13/2025, using the proper ref tag with our current instance of ASpace will crash any PDFs you try to generate. If you need to generate a PDF for proofreading, remove the <ref> and then replace it after generating the PDF. *Example:*
 
-```
+```html
 
 <ref href="https://findingaids.csun.edu/repositories/2/resources/665">Ludmilla A. Patrick Collection</ref>
 

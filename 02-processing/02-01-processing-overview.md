@@ -20,4 +20,4 @@ Archival processing work is tracked on our internal-facing Basecamp. For a high-
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)

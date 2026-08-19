@@ -93,7 +93,7 @@ This section includes the name(s) of the collection's donor(s), if known, as wel
 The terms, conditions, and length of any restrictions must be included in the finding guide for each collection.
 
 #### Conditions Governing Use *REQUIRED*
-Use the department’s copyright statement::\SpecialCollectionsArchives\Administrative\Copyright statements\CSUN Copyright Statements.docx  
+Use the department's copyright statement::\SpecialCollectionsArchives\Administrative\Copyright statements\CSUN Copyright Statements.docx  
 
 #### Processing Information *REQUIRED*   
 Include all processing archivist names as well as the year when processing was finished. Student Assistants may be included at the discretion of the processing archivist. This field is also used to note finding aid additions or revisions, including reparative description work. When recording reparative description work, identify major changes made throughout the finding aid. When new additions are made, include the year processing was completed and a brief description of the addition. This field is published on OAC, unlike the Revision Statement.
@@ -126,7 +126,7 @@ Each series should receive at least one paragraph of description, with the serie
 *Example: The Correspondence consists of . . .*
 
 #### Arrangement  of Materials   
-This section is used when collections contain Series. It should include a simple outline of the collection’s organization, showing major series and all subseries, with dates.
+This section is used when collections contain Series. It should include a simple outline of the collection's organization, showing major series and all subseries, with dates.
 
 > *Example:   
 > Series I: Correspondence, 1920-1923   
@@ -180,5 +180,5 @@ The Special Collections and Archives Librarian or Head of Special Collections an
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)
 

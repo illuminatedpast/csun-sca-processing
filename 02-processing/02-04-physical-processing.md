@@ -63,12 +63,12 @@ When processing is completed collections, [box labels](https://mycsun.box.com/s/
 ### Administrative Updates
 When processing is completed the processing archivist returns to the ArchivesSpace Accession record(s) and:
 - Deletes related accession container instances. If these accession boxes were stored in AS/RS before processing, the Archivists notifies the AS/RS Lead that the AS/RS accession box records can now be deleted.
-- Updates the Accession>Collection Management>Processing Status to read “Processed”
-- Makes sure that the newly processed collection is listed as a “Related Resource” . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.
+- Updates the Accession>Collection Management>Processing Status to read "Processed"
+- Makes sure that the newly processed collection is listed as a "Related Resource" . This happens automatically if you spawned the resource from that accession, but if not, you must do it manually.
 
 ### Physical Processing Guidelines for Student Assistants
 
-The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.com/s/5ka6md1pavzbqxfvohef5qymbprm8920) (internal link) document provides a starting point for Student Assistant processing work, but the guidelines should be adapted as needed for specific collections’ processing needs.
+The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.com/s/5ka6md1pavzbqxfvohef5qymbprm8920) (internal link) document provides a starting point for Student Assistant processing work, but the guidelines should be adapted as needed for specific collections' processing needs.
 
 ### Folder Template
 *Note, at the discretion of the Processing Archivist, a "[graphic materials]" note may be added to the folder title, encased in brackets. This will not be added to the container list folder title data entered in ASpace, but will alert a researcher in the reading room that they are about to encounter graphic materials.*
@@ -79,6 +79,6 @@ The [Physical Processing Guidelines for Student Assistants](https://mycsun.box.c
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)
 
 

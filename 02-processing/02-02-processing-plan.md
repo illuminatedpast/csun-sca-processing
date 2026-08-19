@@ -24,4 +24,4 @@ Processing plans are internal documents only.
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)

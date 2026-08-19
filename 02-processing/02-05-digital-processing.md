@@ -16,7 +16,7 @@ The same basic processing principles apply to digital documents as if you were p
 Describe in the processing plan how detailed the description will be for digital files. Will you describe all the digital files in a single Digital Object? Will the digital files need to be arranged in digital folders? Are there PII or restriction concerns that will impact processing needs?
 
 #### Arrangement:
-1.	Create a folder on the X drive labeled “COLLECTIONCODE Digital Files” *Example: MUE Digital Files* 
+1.	Create a folder on the X drive labeled "COLLECTIONCODE Digital Files" *Example: MUE Digital Files* 
 2.	Move a copy of the files from the Unprocessed Accession folder into the Digital Files folder. This is your working files folder. Do not modify the files in the Unprocessed Accession folder.
 3.	If the collection processing plan includes folder-level arrangement and file renaming, arrange the digital items into digital folders labeled "COLLECTIONCODE_[Series if applicable]_FolderTitle_Date" *Example: MEA_I_ConservativeIllusionCorrespondence_1983*
 4.	Treat CDs and floppies pulled from physical folders as you would a pulled oversized item. Use the same folder title for the digital object to link it to the folder it was removed from.
@@ -39,6 +39,6 @@ Describe in the processing plan how detailed the description will be for digital
  
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](https://illuminatedpast.github.io/csun-sca-processing/)
+[Back to the CSUN SC/A Processing Guide Start Page](/)
 
 

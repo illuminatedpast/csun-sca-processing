@@ -44,4 +44,4 @@ A Word document version of these instructions is located on [Box](https://mycsun
 
 ***
 
-[Back to the CSUN SC/A Processing Guide Start Page](./)
+[Back to the CSUN SC/A Processing Guide Start Page](../index.md)

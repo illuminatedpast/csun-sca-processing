@@ -1,6 +1,5 @@
 ---
 layout: default
-title: CSUN SC/A Processing Guide
 breadcrumb_title: "ArchivesSpace Bulk Imports"
 ---
 

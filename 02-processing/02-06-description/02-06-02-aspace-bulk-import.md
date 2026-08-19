@@ -14,7 +14,7 @@ The bulk import tool allows an archivist to use Excel to load all series, sub-se
 -	The Hierarchy has to be in order. So if you enter a file in hierarchy #3 it needs to come after the correct series you want it in (not above it in a different series)
 -	For Italics: Instead of italicizing things in the folder titles, wrap the words in code. So for a folder titled, "Alert: Against Communism in California" you would wrap it in the following code to get it to display *Alert: Against Communism in California* in the finding aid:
 
-```
+```html
 
 <title render="italic">Alert: Against Communism in California</title>
 
